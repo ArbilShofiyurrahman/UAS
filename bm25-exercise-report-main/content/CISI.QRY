@@ -1,1525 +1,1525 @@
 .I 1
 .W
-What problems and concerns are there in making up descriptive titles?
-What difficulties are involved in automatically retrieving articles from
-approximate titles?
-What is the usual relevance of the content of articles to their titles?
+Masalah dan kekhawatiran apa yang ada dalam membuat judul deskriptif?
+Kesulitan apa yang terlibat dalam mengambil artikel secara otomatis dari
+perkiraan judul?
+Apa relevansi yang biasa dari konten artikel dengan judulnya?
 .I 2
 .W
-How can actually pertinent data, as opposed to references or entire articles
-themselves, be retrieved automatically in response to information requests?
+Bagaimana sebenarnya data yang bersangkutan, bukan referensi atau seluruh artikel
+sendiri, diambil secara otomatis dalam menanggapi permintaan informasi?
 .I 3
 .W
-What is information science?  Give definitions where possible.
-.I 4
+Apa itu ilmu informasi? Berikan definisi jika memungkinkan.
+.saya 4
 .W
-Image recognition and any other methods of automatically
-transforming printed text into computer-ready form.
-.I 5
+Pengenalan gambar dan metode lainnya secara otomatis
+mengubah teks tercetak menjadi bentuk yang siap pakai komputer.
+.saya 5
 .W
-What special training will ordinary researchers and businessmen need for proper
-information management and unobstructed use of information retrieval systems?
-What problems are they likely to encounter?
-.I 6
+Pelatihan khusus apa yang dibutuhkan oleh peneliti dan pebisnis biasa
+manajemen informasi dan penggunaan sistem pencarian informasi yang tidak terhalang?
+Masalah apa yang mungkin mereka hadapi?
+.saya 6
 .W
-What possibilities are there for verbal communication between computers and
-humans, that is, communication via the spoken word?
+Kemungkinan apa yang ada untuk komunikasi verbal antara komputer dan
+manusia, yaitu komunikasi melalui kata yang diucapkan?
 .I 7
 .W
-Describe presently working and planned systems for publishing and printing
-original papers by computer, and then saving the byproduct, articles coded in
-data-processing form, for further use in retrieval.
+Jelaskan sistem yang saat ini berfungsi dan direncanakan untuk penerbitan dan pencetakan
+kertas asli dengan komputer, dan kemudian menyimpan produk sampingan, artikel yang dikodekan
+formulir pemrosesan data, untuk digunakan lebih lanjut dalam pengambilan.
 .I 8
 .W
-Describe information retrieval and indexing in other languages.
-What bearing does it have on the science in general?
+Jelaskan pengambilan informasi dan pengindeksan dalam bahasa lain.
+Apa kaitannya dengan sains secara umum?
 .I 9
 .W
-What possibilities are there for automatic grammatical and contextual analysis
-of articles for inclusion in an information retrieval system?
-.I 10
+Kemungkinan apa yang ada untuk analisis gramatikal dan kontekstual otomatis
+artikel untuk dimasukkan dalam sistem pencarian informasi?
+.saya 10
 .W
-The use of abstract mathematics in information retrieval, e.g. group theory.
+Penggunaan matematika abstrak dalam temu kembali informasi, misalnya teori grup.
 .I 11
 .W
-What is the need for information consolidation, evaluation, and retrieval in
-scientific research?
+Apa kebutuhan untuk konsolidasi informasi, evaluasi, dan pengambilan di
+penelitian ilmiah?
 .I 12
 .W
-Give methods for high speed publication, printing, and distribution of
-scientific journals.
+Berikan metode untuk publikasi, pencetakan, dan distribusi kecepatan tinggi
+jurnal ilmiah.
 .I 13
 .W
-What criteria have been developed for the objective evaluation of information
-retrieval and dissemination systems?
+Kriteria apa yang telah dikembangkan untuk evaluasi informasi yang objektif
+sistem pengambilan dan penyebaran?
 .I 14
 .W
-What future is there for automatic medical diagnosis?
+Masa depan apa yang ada untuk diagnosis medis otomatis?
 .I 15
 .W
-How much do information retrieval and dissemination systems, as well as
-automated libraries, cost?
-Are they worth it to the researcher and to industry?
+Berapa banyak sistem pencarian dan penyebaran informasi, serta
+perpustakaan otomatis, biaya?
+Apakah mereka layak untuk peneliti dan industri?
 .I 16
 .W
-What systems incorporate multiprogramming or remote stations in information
-retrieval?  What will be the extent of their use in the future?
+Sistem apa yang menggabungkan multiprogramming atau stasiun jarak jauh dalam informasi
+pengambilan? Apa yang akan menjadi sejauh mana penggunaannya di masa depan?
 .I 17
 .W
-Means of obtaining large volume, high speed, customer usable
-information retrieval output.
+Sarana mendapatkan volume besar, kecepatan tinggi, dapat digunakan pelanggan
+keluaran pencarian informasi.
 .I 18
 .W
-What methods are there for encoding, automatically matching,
-and automatically drawing structures extended in two dimensions,
-like the structural formulas for chemical compounds?
+Metode apa yang ada untuk penyandian, pencocokan otomatis,
+dan secara otomatis menggambar struktur yang diperluas dalam dua dimensi,
+seperti rumus struktur senyawa kimia?
 .I 19
 .W
-Techniques of machine matching and machine searching systems.
-Coding and matching methods.
-.I 20
+Teknik pencocokan mesin dan sistem pencarian mesin.
+Metode pengkodean dan pencocokan.
+.saya 20
 .W
-Testing automated information systems.
+Menguji sistem informasi otomatis.
 .I 21
 .W
-The need to provide personnel for the information field.
+Kebutuhan untuk menyediakan personil untuk bidang informasi.
 .I 22
 .W
-Automated information in the medical field.
+Informasi otomatis di bidang medis.
 .I 23
 .W
-Amount of use of books in libraries.
-Relation to need for automated information systems .
-.I 24
+Jumlah penggunaan buku di perpustakaan.
+Kaitannya dengan kebutuhan akan sistem informasi otomatis.
+.saya 24
 .W
-Educational and training requirements for personnel in the information field.
-Possibilities for this training.  Needs for programs providing this training.
-.I 25
+Persyaratan pendidikan dan pelatihan bagi personel di bidang informasi.
+Kemungkinan untuk pelatihan ini. Kebutuhan akan program yang menyediakan pelatihan ini.
+.saya 25
 .W
-International systems for exchange and dissemination of information.
+Sistem internasional untuk pertukaran dan penyebaran informasi.
 .I 26
 .W
-Cost and determination of cost associated with systems of automated information.
+Biaya dan penentuan biaya terkait dengan sistem informasi otomatis.
 .I 27
 .W
-Computerized information retrieval systems.  Computerized indexing systems.
+Sistem pencarian informasi terkomputerisasi. Sistem pengindeksan terkomputerisasi.
 .I 28
 .W
-Computerized information systems in fields related to chemistry.
+Sistem informasi terkomputerisasi dalam bidang yang berkaitan dengan kimia.
 .I 29
 .W
-Specific advantages of computerized index systems.
-.I 30
+Keuntungan khusus dari sistem indeks terkomputerisasi.
+.saya 30
 .W
-Information dissemination by journals and periodicals.
+Penyebaran informasi melalui jurnal dan terbitan berkala.
 .I 31
 .W
-Information systems in the physical sciences.
+Sistem informasi dalam ilmu fisika.
 .I 32
 .W
-Attempts at computerized and mechanized systems for general libraries.
-Problems and methods of automated general author and title indexing systems.
+Upaya sistem komputerisasi dan mekanisasi untuk perpustakaan umum.
+Masalah dan metode penulis umum otomatis dan sistem pengindeksan judul.
 .I 33
 .W
-Retrieval systems which provide for the automated transmission of information
-to the user from a distance.
+Sistem pengambilan yang menyediakan transmisi otomatis informasi
+pengguna dari jarak jauh.
 .I 34
 .W
-Methods of coding used in computerized index systems.
-.I 35
+Metode pengkodean digunakan dalam sistem indeks terkomputerisasi.
+.saya 35
 .W
-Government supported agencies and projects dealing with information dissemination.
+Badan-badan dan proyek-proyek yang didukung pemerintah berurusan dengan penyebaran informasi.
 .I 36
 .W
-What are some of the theories and practices in computer translating of
-texts from one national language to another?  How can machine translating
-compete with traditional methods of translating in comprehending nuances
-of meaning in languages of different structures?
+Apa saja teori dan praktik dalam penerjemahan komputer
+teks dari satu bahasa nasional ke bahasa lain? Bagaimana mesin menerjemahkan
+bersaing dengan metode penerjemahan tradisional dalam memahami nuansa
+makna dalam bahasa dari struktur yang berbeda?
 
 .I 37
 .W
-What lists of words useful for indexing or classifying material are
-available?  Wanted are lists of terms that are descriptive vocabularies
-of particular fields or schedules of words that are related to each other
-in meaningful schemes.  Wanted are lists that have been tested, at least to
-some extent, and found useful for organizing material and for retrieving it.
+Daftar kata apa yang berguna untuk mengindeks atau mengklasifikasikan materi
+tersedia? Dicari adalah daftar istilah yang merupakan kosa kata deskriptif
+bidang tertentu atau jadwal kata-kata yang terkait satu sama lain
+dalam skema yang berarti. Dicari adalah daftar yang telah diuji, setidaknya untuk
+sampai batas tertentu, dan berguna untuk mengatur materi dan untuk mengambilnya kembali.
 
 .I 38
 .W
-How can access words in an information retrieval system be kept up to date?
-Word meanings and usage often change and lists must be dynamic to be current.
-What definitions of the problem and progress toward solutions have been made
-in providing necessary flexibility in systems of subject headings, index
-words, or other symbols used for getting at stored data?
+Bagaimana cara mengakses kata-kata dalam sistem pencarian informasi agar tetap up to date?
+Makna dan penggunaan kata sering berubah dan daftar harus dinamis agar terkini.
+Apa definisi masalah dan kemajuan menuju solusi yang telah dibuat
+dalam memberikan fleksibilitas yang diperlukan dalam sistem judul subjek, indeks
+kata-kata, atau simbol lain yang digunakan untuk mendapatkan data yang tersimpan?
 
 .I 39
 .W
-The progress of information retrieval presents problems of maladjustment
-and dislocation of personnel.  Training and retraining of people to use
-the new equipment is important at all levels.  Librarians, assistants,
-technicians, students, researchers, and even executives will need education
-to learn the purpose, values, and uses of information systems and hardware.
-What programs have been developed to change the attitudes and skills of
-traditional workers and help them to learn the newer techniques?
+Kemajuan pencarian informasi menghadirkan masalah ketidakmampuan menyesuaikan diri
+dan dislokasi personel. Pelatihan dan pelatihan ulang orang untuk digunakan
+peralatan baru itu penting di semua tingkatan. Pustakawan, asisten,
+teknisi, mahasiswa, peneliti, dan bahkan eksekutif akan membutuhkan pendidikan
+untuk mempelajari tujuan, nilai, dan penggunaan sistem informasi dan perangkat keras.
+Program apa yang telah dikembangkan untuk mengubah sikap dan keterampilan
+pekerja tradisional dan membantu mereka mempelajari teknik yang lebih baru?
 
-.I 40
+.saya 40
 .W
-What is the status of machine translation?  What progress has been
-made in the use of computers to transfer from one language to another
-with some degree of automation?  What problems and stumbling blocks
-have been found and are they considered to be insurmountable limitations
-or only challenging to the field of documentation on an international scale?
+Apa status terjemahan mesin? Kemajuan apa yang telah dicapai
+dibuat dalam penggunaan komputer untuk mentransfer dari satu bahasa ke bahasa lain
+dengan beberapa tingkat otomatisasi? Apa masalah dan batu sandungan
+telah ditemukan dan dianggap sebagai batasan yang tidak dapat diatasi
+atau hanya menantang untuk bidang dokumentasi dalam skala internasional?
 
 .I 41
 .W
-Is alphabetical ordering of material considered to be a useful tool in
-information retrieval?  What studies have been done to compare the
-effectiveness of alphabetical order with other organization schemes?
-Is there a generally accepted form of arranging material in
-alphabetical order, and is there an easy way of achieving this form
-without going to a great amount of effort?
+Apakah urutan bahan berdasarkan abjad dianggap sebagai alat yang berguna dalam
+pencarian informasi? Studi apa yang telah dilakukan untuk membandingkan
+efektivitas urutan abjad dengan skema organisasi lainnya?
+Apakah ada bentuk pengaturan materi yang diterima secara umum di
+urutan abjad, dan apakah ada cara mudah untuk mencapai bentuk ini
+tanpa melakukan banyak usaha?
 
 .I 42
 .W
-The average student or researcher has difficulty in comprehending the
-vocabulary of information retrieval.  It appears important that this
-new field be understood before it is to be fully accepted.  What basic
-articles would provide an understanding of the various important aspects
-of the information storage and retrieval?
+Rata-rata mahasiswa atau peneliti mengalami kesulitan dalam memahami
+kosakata pencarian informasi. Tampaknya penting bahwa ini
+bidang baru dipahami sebelum diterima sepenuhnya. Dasar apa
+artikel akan memberikan pemahaman tentang berbagai aspek penting
+penyimpanan dan pengambilan informasi?
 
 .I 43
 .W
-The difficulties encountered in information retrieval systems are often
-less related to the equipment used than to the failure to plan
-adequately for document analysis, indexing, and machine coding.  The
-position of the programmer is to take a problem and write it in a way
-in which the equipment will understand.  What articles have been written
-describing research in maximizing the effectiveness of programming?
+Kesulitan yang dihadapi dalam sistem pencarian informasi sering
+kurang terkait dengan peralatan yang digunakan daripada kegagalan untuk merencanakan
+memadai untuk analisis dokumen, pengindeksan, dan pengkodean mesin. Itu
+posisi programmer adalah mengambil masalah dan menuliskannya dengan cara
+di mana peralatan akan mengerti. Artikel apa yang telah ditulis
+menjelaskan penelitian dalam memaksimalkan efektivitas pemrograman?
 
 .I 44
 .W
-There are presently fifty to one hundred technical journals being
-published.  On the average, two new journals appear every day.  In
-the many journals published, one to two million articles appear every
-year.  What attempts have been made to cope with this amount of
-scientific and technical publication in terms of analysis, control,
-storage, and retrieval?
+Saat ini ada lima puluh hingga seratus jurnal teknis
+diterbitkan. Rata-rata, dua jurnal baru muncul setiap hari. Di dalam
+dari sekian banyak jurnal yang diterbitkan, satu sampai dua juta artikel muncul setiap
+tahun. Upaya apa yang telah dilakukan untuk mengatasi jumlah ini
+publikasi ilmiah dan teknis dalam hal analisis, kontrol,
+penyimpanan, dan pengambilan?
 
-.I 45
+.saya 45
 .W
-I am looking for information about the impact of automation on
-libraries and its significance for libraries in general.  This includes
-the increasing importance of automation in view of the proliferation of
-information today, and how automation can help libraries cope with
-this problem.  How will automation affect libraries and how should they
-react to the idea of automation?
+Saya mencari informasi tentang dampak otomatisasi pada
+perpustakaan dan maknanya bagi perpustakaan pada umumnya. Ini termasuk
+semakin pentingnya otomatisasi mengingat proliferasi
+informasi hari ini, dan bagaimana otomatisasi dapat membantu perpustakaan mengatasinya
+masalah ini. Bagaimana otomatisasi akan memengaruhi perpustakaan dan bagaimana seharusnya
+bereaksi terhadap ide otomatisasi?
 
 .I 46
 .W
-I am seeking information on the use of data processing in libraries and
-the mechanization of routine library processes and procedures.  I would
-like descriptions of both general and specific applications of
-automation in such areas as circulation, cataloging, acquisitions,
-serial records, and other record-keeping.  Examples should be based on
-the operation of a conventional public or university library, or
-practices in a special library which could also be applied in a public
-or university library.  Give descriptions of equipment and operations,
-both present and projected.
+Saya mencari informasi tentang penggunaan pemrosesan data di perpustakaan dan
+mekanisasi proses dan prosedur perpustakaan rutin. saya akan
+seperti deskripsi aplikasi umum dan khusus dari
+otomatisasi di bidang-bidang seperti sirkulasi, katalogisasi, akuisisi,
+catatan serial, dan pencatatan lainnya. Contoh harus didasarkan pada
+pengoperasian perpustakaan umum atau universitas konvensional, atau
+praktik di perpustakaan khusus yang juga dapat diterapkan di ruang publik
+atau perpustakaan universitas. Berikan deskripsi peralatan dan operasi,
+baik yang ada maupun yang diproyeksikan.
 
 .I 47
 .W
-Is there any established means at present for an international exchange
-of material about information retrieval?  If there is, does it take
-the form of an international agency or center which regularly
-distributes information retrieval methods and research results?  If
-there is not, in what ways has this material crossed national
-boundaries?  What seem to have been some of the problems blocking a
-better international exchange, and is any effort being made to solve
-some of those problems?
+Apakah ada cara yang ditetapkan saat ini untuk pertukaran internasional
+materi tentang pencarian informasi? Jika ada, apakah perlu
+berupa badan atau pusat internasional yang teratur
+mendistribusikan metode pencarian informasi dan hasil penelitian? Jika
+tidak ada, dengan cara apa materi ini melintasi nasional
+batasan? Apa yang tampaknya menjadi beberapa masalah yang menghalangi a
+pertukaran internasional yang lebih baik, dan apakah ada upaya yang dilakukan untuk menyelesaikannya
+beberapa masalah tersebut?
 
 .I 48
 .W
-Information retrieval is still such a new and experimental field that a
-line distinguishing research and practice is often difficult - even
-impossible - to draw.  Are there, however, actual centers of research
-on information retrieval?  If so, in which countries are they
-located?  Who supports them - government, business, universities, or
-libraries?  Can information retrieval as a specialized research
-discipline be said to be emerging, or is it still an amalgam of skills
-from other fields, such as mathematics, engineering, and library
-science?  In other words, tell me about information retrieval research.
+Pengambilan informasi masih merupakan bidang baru dan eksperimental yang a
+penelitian dan praktik yang membedakan garis seringkali sulit - bahkan
+mustahil - menggambar. Namun, apakah ada pusat penelitian yang sebenarnya
+pada pencarian informasi? Jika demikian, di negara mana mereka berada
+terletak? Siapa yang mendukung mereka - pemerintah, bisnis, universitas, atau
+perpustakaan? Dapat pencarian informasi sebagai penelitian khusus
+Disiplin bisa dibilang baru muncul, atau masih merupakan gabungan dari keterampilan
+dari bidang lain, seperti matematika, teknik, dan perpustakaan
+sains? Dengan kata lain, ceritakan tentang penelitian pencarian informasi.
 
 .I 49
 .W
-Most resources have been spent on applying information retrieval
-techniques to the physical and medical sciences.  But, has information
-retrieval been used at all in the natural sciences, social sciences,
-and humanities?  If so, what have been some of the problems which have
-been encountered with these subject areas and how have they been
-solved, if at all?  Have the characteristics of these subject areas
-necessitated the development of new information retrieval techniques?
-What are the prospcts for future machine control in these areas?
+Sebagian besar sumber daya telah dihabiskan untuk menerapkan pencarian informasi
+teknik untuk ilmu fisika dan kedokteran. Tapi, memiliki informasi
+pengambilan telah digunakan sama sekali dalam ilmu alam, ilmu sosial,
+dan humaniora? Jika demikian, apa yang menjadi beberapa masalah yang ada
+telah ditemui dengan bidang studi ini dan bagaimana mereka
+dipecahkan, jika sama sekali? Memiliki karakteristik bidang studi tersebut
+mengharuskan pengembangan teknik pencarian informasi baru?
+Apa prospek untuk kontrol mesin masa depan di area ini?
 
-.I 50
+.saya 50
 .W
-Is there any use for traditional classification schemes - DDC, UDC, LC,
-etc. - in information retrieval systems?  If there is, which scheme
-appears most suited to machine use and where has it been applied?
-If there is not, why are these classification schemes irrelevant?
-Has research shown that a subject classification of knowledge is
-completely unnecessary in machine systems? Or, have new schemes
-been devised which appear to be more suited to machine use?
+Apakah ada gunanya skema klasifikasi tradisional - DDC, UDC, LC,
+dll - dalam sistem pencarian informasi? Jika ada, skema yang mana
+tampaknya paling cocok untuk penggunaan mesin dan di mana penerapannya?
+Jika tidak ada, mengapa skema klasifikasi ini tidak relevan?
+Telah penelitian menunjukkan bahwa klasifikasi subjek pengetahuan adalah
+sama sekali tidak diperlukan dalam sistem mesin? Atau, punya skema baru
+telah dirancang mana yang tampaknya lebih cocok untuk penggunaan mesin?
 
 .I 51
 .W
-Coordinate indexing utilizes descriptors for controlled language.  Of
-what use are descriptors in the construction of an index?  How can
-descriptors be used for searching in an information retrieval system?
+Pengindeksan koordinat menggunakan deskriptor untuk bahasa yang dikontrol. Dari
+apa gunanya deskriptor dalam pembuatan indeks? bagaimana bisa
+deskriptor digunakan untuk mencari dalam sistem pencarian informasi?
 
 .I 52
 .W
-What are the characteristics of MEDLARS (Medical Literature Analysis
-and Retrieval System) project which has been undertaken by the
-National Library of Medicine?  How does it index current medical
-journals and of what relation is this indexing system to Index Medicus?
-What are the major components of the MEDLARS project and its major operating
-details?
+Apa karakteristik MEDLARS (Analisis Literatur Medis
+dan Retrieval System) proyek yang telah dilakukan oleh
+Perpustakaan Kedokteran Nasional? Bagaimana indeks medis saat ini
+jurnal dan apa hubungan sistem pengindeksan ini dengan Index Medicus?
+Apa komponen utama dari proyek MEDLARS dan operasi utamanya
+rincian?
 
 .I 53
 .W
-How can the computer be used in medical science for diagnostic and
-clinical record keeping purposes?  Have any programs of automation
-been tried in hospitals?  If so, what have been the results?
-What problems have been encountered in the use of automation in
-medicine?  For what purposes can an automated system of clinical
-records be used?  What are other possible uses of the computer in medicine?
+Bagaimana komputer dapat digunakan dalam ilmu kedokteran untuk diagnostik dan
+tujuan pencatatan klinis? Memiliki program otomasi
+sudah dicoba di rumah sakit? Jika ya, apa hasilnya?
+Masalah apa yang dihadapi dalam penggunaan otomatisasi di
+obat-obatan? Untuk tujuan apa sistem klinis otomatis
+catatan digunakan? Apa kegunaan lain dari komputer dalam kedokteran?
 
 .I 54
 .W
-What is the effect on librarians of automation?  Note the new types
-of technology to be used in the library which will have an effect on
-the status, position, and function of the librarians.  What changes
-are being contemplated or have been initiated to introduce automation
-into the education of librarians?
+Apa efek otomasi terhadap pustakawan? Perhatikan jenis baru
+teknologi yang akan digunakan di perpustakaan yang akan berpengaruh pada
+kedudukan, kedudukan, dan fungsi pustakawan. Perubahan apa
+sedang dipertimbangkan atau telah dimulai untuk memperkenalkan otomatisasi
+dalam pendidikan pustakawan?
 
 .I 55
 .W
-What are the aims and objectives of the medical literature analysis
-and retrieval system (MEDLARS)?  How does MEDLARS operate?  What are
-the possible applications of MEDLARS to future information retrieval
-systems?
+Apa maksud dan tujuan dari analisis literatur medis
+dan sistem pengambilan (MEDLARS)? Bagaimana MEDLARS beroperasi? Apa yang
+kemungkinan penerapan MEDLARS untuk pengambilan informasi di masa mendatang
+sistem?
 
 .I 56
 .W
-The standard method of finding information in today's libraries is
-through the use of the alphabetically arranged card catalog or the
-classified catalog based on a classification system such as the DC or
-LC.  Can these systems be modified for use with automated information
-retrieval?
+Metode standar untuk menemukan informasi di perpustakaan saat ini adalah
+melalui penggunaan katalog kartu yang disusun menurut abjad atau
+katalog diklasifikasikan berdasarkan sistem klasifikasi seperti DC atau
+LC. Dapatkah sistem ini dimodifikasi untuk digunakan dengan informasi otomatis
+pengambilan?
 
 .I 57
 .W
-In catalogs which are either arranged alphabetically or arranged by
-classification number, the LC entry, printed in readable language, is
-ultimately important because the individual looking for information
-has a definite author, title, or subject phrase in his language
-(probably English in our case) in mind.  Will LC entries and subject
-headings be used in the same manner in automated systems?
+Dalam katalog yang disusun menurut abjad atau disusun menurut
+nomor klasifikasi, entri LC, dicetak dalam bahasa yang dapat dibaca, adalah
+akhirnya penting karena individu mencari informasi
+memiliki penulis, judul, atau frase subjek yang pasti dalam bahasanya
+(mungkin bahasa Inggris dalam kasus kami) dalam pikiran. Akan LC entri dan subjek
+judul digunakan dengan cara yang sama dalam sistem otomatis?
 
 
 
 .I 58
 .T
-Directions in Library Networking
+Arah dalam Jaringan Perpustakaan
 .A
-Avram, H.D.
-McCallum, S.H.
+Avram, HD
+McCallum, SH
 .W
-    Bibliographic control before and after MARC is reviewed.  The capability
-of keying into online systems brought an interdependence among libraries,
-the service centers that mediate between them, and the large utilities that
-process and distribute data.  From this has developed the basic network
-structure among libraries in the United States.  The independent development
-of major networks has brought problems in standardization and coordination.
-The authors point out that while technology has led toward centralization
-of automated library services, new developments are now pushing toward
-decentralization.  Coordination is a requirement to avoid fragmentation in
-this new environment.
+Kontrol bibliografi sebelum dan sesudah MARC ditinjau. Kemampuan
+memasukkan ke dalam sistem online membawa saling ketergantungan antara perpustakaan,
+pusat layanan yang menengahi di antara mereka, dan utilitas besar yang
+mengolah dan mendistribusikan data. Dari sini telah berkembang jaringan dasar
+struktur di antara perpustakaan di Amerika Serikat. Pembangunan mandiri
+jaringan utama telah membawa masalah dalam standardisasi dan koordinasi.
+Para penulis menunjukkan bahwa sementara teknologi telah mengarah pada sentralisasi
+layanan perpustakaan otomatis, perkembangan baru sekarang mendorong ke arah
+desentralisasi. Koordinasi adalah persyaratan untuk menghindari fragmentasi dalam
+lingkungan baru ini.
 .B
-(JASIS, Vol. 31, No. 6, November 1980, pp. 438-444)
+(JASIS, Vol. 31, No. 6, November 1980, hlm. 438-444)
 
 .I 59
 .T
-Performance Testing of a Book and Its Index as a Information Retrieval
-System
+Pengujian Kinerja Buku dan Indeksnya sebagai Information Retrieval
+Sistem
 .A
-Bennion, B.C.
+Benion, BC
 .W
-    The retrieval performance of book indexes can be measured in terms of
-their ability to direct a user selectively to text material whose identity
-but not location is known.  The method requires human searchers to base
-their searching strategies on actual passages from the book rather than on
-test queries, natural or contrived.  It circumvents the need for relevance
-judgement, but still yields performance indicators that correspond
-approximately to the recall and precision ratios of large document retrieval
-system evaluation.  A preliminary application of the method to the subject
-indexing of two major encyclopedias showed one encyclopedia apparently
-superior in both the finding and discrimination abilities of retrieval
-performance.  The method is presently best suited for comparative testing
-since its ability to yield absolute or reproducible measures is as yet not
-established.
+Kinerja temu kembali indeks buku dapat diukur dalam hal
+kemampuan mereka untuk mengarahkan pengguna secara selektif ke materi teks yang identitasnya
+tapi tidak diketahui lokasinya. Metode ini membutuhkan pencari manusia untuk mendasarkan
+strategi pencarian mereka pada bagian-bagian yang sebenarnya dari buku daripada pada
+pertanyaan tes, alami atau dibuat-buat. Ini menghindari kebutuhan akan relevansi
+penilaian, namun tetap menghasilkan indikator kinerja yang sesuai
+kira-kira untuk mengingat dan rasio presisi pengambilan dokumen besar
+evaluasi sistem. Sebuah aplikasi awal dari metode untuk subjek
+pengindeksan dua ensiklopedia utama menunjukkan satu ensiklopedia
+unggul baik dalam menemukan dan kemampuan diskriminasi pengambilan
+pertunjukan. Metode ini saat ini paling cocok untuk pengujian komparatif
+karena kemampuannya untuk menghasilkan ukuran-ukuran absolut atau yang dapat direproduksi masih belum ada
+didirikan.
 .B
-(JASIS, Vol. 31, No. 4, July 1980, pp. 264-270)
+(JASIS, Vol. 31, No. 4, Juli 1980, hlm. 264-270)
 
-.I 60
+.saya 60
 .T
-The Combined Use of Bibliographic Coupling and Cocitation for Document
-Retrieval
+Penggunaan Gabungan Bibliographic Coupling dan Cocitation untuk Dokumen
+Pengambilan
 .A
-Bichteler, J.
-Eaton, E.A. III
+Bichteller, J.
+Eaton, EA III
 .W
-    A linkage similarity measure which takes into account both the bibliographic
-coupling of documents and their cocitations (both cited and citing papers)
-produced improved document retrieval over a measure based only on
-bibliographic coupling.  The test collection consisted of 1712 papers whose
-relevance to specific queries had been judged by users.  To evaluate the
-effect of using cocitation data, we calculated for each query two measures
-of similarity between each relevant paper and every other paper retrieved.
-Papers were then sorted by the similarity measures, producing two ordered
-lists.  We then compared the resulting predictions of relevance, partial
-relevance, and non-relevance to the user's evaluations of the same papers.
-Overall, the change from the bibliographic coupling measure to the linkage
-similarity measure, representing the introduction of cocitation data,
-resulted in better retrieval performance.
+Ukuran kesamaan keterkaitan yang memperhitungkan kedua bibliografi
+kopling dokumen dan cocitations mereka (baik dikutip dan mengutip kertas)
+menghasilkan pengambilan dokumen yang lebih baik melalui ukuran hanya berdasarkan
+kopling bibliografi. Koleksi tes terdiri dari 1712 makalah yang
+relevansi dengan kueri tertentu telah dinilai oleh pengguna. Untuk mengevaluasi
+efek menggunakan data cocitation, kami menghitung untuk setiap kueri dua ukuran
+kesamaan antara setiap kertas yang relevan dan setiap kertas lainnya diambil.
+Makalah kemudian diurutkan berdasarkan ukuran kesamaan, menghasilkan dua pesanan
+daftar. Kami kemudian membandingkan prediksi relevansi yang dihasilkan, parsial
+relevansi, dan non-relevansi dengan evaluasi pengguna dari makalah yang sama.
+Secara keseluruhan, perubahan dari bibliographic coupling measure menjadi linkage
+ukuran kesamaan, mewakili pengenalan data cocitation,
+menghasilkan kinerja pengambilan yang lebih baik.
 .B
-(JASIS, Vol. 31, No. 4, July 1980, pp. 278-282)
+(JASIS, Vol. 31, No. 4, Juli 1980, hlm. 278-282)
 
-.I 61
+.saya 61
 .T
-Searching Biases in Large Interactive Document Retrieval Systems
+Mencari Bias dalam Sistem Pengambilan Dokumen Interaktif Besar
 .A
-Blair, D.C.
+Blair, DC
 .W
-    The way that individuals construct and modify search queries on a
-large interactive document retrieval system is subject to systematic biases
-similar to those that have been demonstrated in experiments on judgements
-under uncertainty.  These biases are shared by both naive and sophisticated
-subjects and cause the inquirer searching for documents on a large interactive
-system to construct and modify queries inefficiently.  A searching algorithm
-is suggested that helps the inquirer to avoid the effect of these biases.
+Cara individu menyusun dan memodifikasi kueri penelusuran pada a
+sistem temu kembali dokumen interaktif besar tunduk pada bias sistematis
+mirip dengan yang telah ditunjukkan dalam percobaan pada penilaian
+di bawah ketidakpastian. Bias ini dimiliki oleh naif dan canggih
+subjek dan menyebabkan penanya mencari dokumen pada interaktif besar
+sistem untuk membangun dan memodifikasi kueri secara tidak efisien. Sebuah algoritma pencarian
+disarankan yang membantu penanya untuk menghindari efek dari bias ini.
 .B
-(JASIS, Vol. 31, No. 4, July 1980, pp. 271-277)
+(JASIS, Vol. 31, No. 4, Juli 1980, hlm. 271-277)
 
 .I 62
 .T
-Fuzzy Requests:  An Approach to Weighted Boolean Searches
+Permintaan Fuzzy: Pendekatan untuk Pencarian Boolean Berbobot
 .A
 Bookstein, A.
 .W
-    This article concerns the problem of how to permit a patron to
-represent the relative importance of various index terms in a Boolean
-request while retaining the desirable properties of a Boolean system.
-The character of classical Boolean systems is reviewed and related to the
-notion of fuzzy sets.  The fuzzy set concept then forms the basis of the
-concept of a fuzzy request in which weights are assigned to index terms.
-Ther properties of such a system are discussed, and it is shown that such
-systems retain the manipulability of traditional Boolean requests.
+Artikel ini menyangkut masalah bagaimana mengizinkan patron untuk
+mewakili kepentingan relatif dari berbagai istilah indeks dalam Boolean
+permintaan sambil mempertahankan properti yang diinginkan dari sistem Boolean.
+Karakter sistem Boolean klasik ditinjau dan dihubungkan dengan
+pengertian himpunan fuzzy. Konsep himpunan fuzzy kemudian membentuk dasar dari
+konsep permintaan fuzzy di mana bobot ditugaskan untuk istilah indeks.
+Sifat-sifat sistem semacam itu dibahas, dan ditunjukkan bahwa itu
+sistem mempertahankan manipulasi permintaan Boolean tradisional.
 .B
-(JASIS, Vol. 31, No. 4, July 1980, pp. 240-247)
+(JASIS, Vol. 31, No. 4, Juli 1980, hlm. 240-247)
 
 .I 63
 .T
-Feature Comparison of an In-House Information Retrieval System With a
-Commercial Search Service
+Perbandingan Fitur In-House Information Retrieval System Dengan a
+Layanan Pencarian Komersial
 .A
-Boyle, S.O.
-Miller, A.P.
+Boyle, JADI
+Miller, AP
 .W
-    A commercially available online search was used as a standard for
-comparative searching and evaluation of an in-house information system
-based on automatic indexing.  System features were identified and
-evaluated on the basis of their usefulness in various kinds of searching,
-their ease in implementation, and how they are influenced by differences
-in user type or specific applications.  Some common features of the
-commercial system, such as online instruction, user-specified print formats,
-dictionary display, and truncation, are seen to be unnecessary or
-impractical for the in-house system.  In designing the in-house system,
-therefore, detald consideration must be given to the applications,
-operating environment, and real user needs.  While a commercial system can
-serve as a useful standard for comparative evaluation, one must be
-careful not to attempt to duplicate it blindly in-house.
+Pencarian online yang tersedia secara komersial digunakan sebagai standar untuk
+pencarian komparatif dan evaluasi sistem informasi internal
+berdasarkan pengindeksan otomatis. Fitur sistem diidentifikasi dan
+dievaluasi berdasarkan kegunaannya dalam berbagai macam pencarian,
+kemudahan mereka dalam implementasi, dan bagaimana mereka dipengaruhi oleh perbedaan
+dalam jenis pengguna atau aplikasi tertentu. Beberapa fitur umum dari
+sistem komersial, seperti instruksi online, format cetak yang ditentukan pengguna,
+tampilan kamus, dan pemotongan, dianggap tidak perlu atau
+tidak praktis untuk sistem in-house. Dalam merancang sistem internal,
+oleh karena itu, pertimbangan detald harus diberikan untuk aplikasi,
+lingkungan operasi, dan kebutuhan pengguna nyata. Sementara sistem komersial bisa
+berfungsi sebagai standar yang berguna untuk evaluasi komparatif, seseorang harus
+hati-hati untuk tidak mencoba menduplikasinya secara membabi buta di rumah.
 .B
-(JASIS, Vol. 31, No. 5, September 1980, pp. 309-317)
+(JASIS, Vol. 31, No. 5, September 1980, hlm. 309-317)
 
-.I 64
+.saya 64
 .T
-Measurement in Information Science:  Objective and Subjective Metrical Space
+Pengukuran dalam Ilmu Informasi: Ruang Metrik Objektif dan Subyektif
 .A
-Brookes, B.C.
+Brooke, BC
 .W
-    It is argued that in information science we have to distinguish
-physical, objective, or document space from perspective, subjective, or
-information space.  These two spaces are like maps and landscapes: each
-is a systematic distortion of the other.  However, transformation can be
-easily made once the two spaces are distinguished.  If the transformations
-are omitted we only get unhelpful physical solutions to information problems.
+Dikatakan bahwa dalam ilmu informasi kita harus membedakan
+ruang fisik, objektif, atau dokumen dari perspektif, subjektif, atau
+ruang informasi. Kedua ruang ini seperti peta dan lanskap: masing-masing
+adalah distorsi sistematis dari yang lain. Namun, transformasi bisa
+mudah dibuat setelah dua ruang dibedakan. Jika transformasi
+dihilangkan, kami hanya mendapatkan solusi fisik yang tidak membantu untuk masalah informasi.
 .B
-(JASIS, Vol. 31, No. 4, July 1980, pp. 248-255)
+(JASIS, Vol. 31, No. 4, Juli 1980, hlm. 248-255)
 
-.I 65
+.saya 65
 .T
-A Model of Cluster Searching Based on Classification
+Model Pencarian Cluster Berdasarkan Klasifikasi
 .A
-Croft, W.B.
+Croft, WB
 .W
-    The use of document clusters has been suggested as an efficient file
-organization for a document retrieval system.  It is possible that by
-using this information about the relationships between documents that the
-effectiveness of the system (i.e., its ability to distinguish relevant
-from non-relevant documents) may also be improved.  In this paper a
-probabilistic model of cluster searching  based on query classification is
-described.  This model is tested with retrieval experiments which indicate
-that it can be more effective than heuristic cluster searches and cluster
-searches based on other models.  It can also be more effective than a full
-search in which every document is compared to the query.  The efficiency
-aspects of the implementation of the model are discussed.
+Penggunaan cluster dokumen telah disarankan sebagai file yang efisien
+organisasi untuk sistem pengambilan dokumen. Mungkin saja oleh
+menggunakan informasi ini tentang hubungan antara dokumen yang
+efektivitas sistem (yaitu, kemampuannya untuk membedakan yang relevan
+dari dokumen yang tidak relevan) juga dapat diperbaiki. Dalam makalah ini a
+model probabilistik pencarian klaster berdasarkan klasifikasi kueri adalah
+dijelaskan. Model ini diuji dengan eksperimen pengambilan yang menunjukkan
+bahwa itu bisa lebih efektif daripada pencarian cluster dan cluster heuristik
+pencarian berdasarkan model lain. Ini juga bisa lebih efektif daripada penuh
+pencarian di mana setiap dokumen dibandingkan dengan kueri. Efisiensi
+aspek implementasi model dibahas.
 .B
-(Inform. Systems, Vol. 5, No. 3, 1980, pp. 189-195)
+(Inform. Systems, Vol. 5, No. 3, 1980, hlm. 189-195)
 
-.I 66
+.saya 66
 .T
-The Technology of Library and Information Networks
+Teknologi Jaringan Perpustakaan dan Informasi
 .A
 Epstein, H.
 .W
-    Current online library network technology is described, including the
-physical and functional aspects of networks.  Three types of networks are
-distinguished:  search service (e.g., SDC, Lockheed), customized service
-that provide bibliographic files (e.g., OCLC, Inc., RLIN), and service
-center (e.g., NELINET, INCOLSA).  It is predicted that as technology
-evolves more services will be provided outside the library directly to the
-user through his home or office.
+Teknologi jaringan perpustakaan online saat ini dijelaskan, diantaranya adalah
+aspek fisik dan fungsional jaringan. Tiga jenis jaringan adalah
+dibedakan: layanan pencarian (misalnya, SDC, Lockheed), layanan yang disesuaikan
+yang menyediakan file bibliografi (misalnya, OCLC, Inc., RLIN), dan layanan
+pusat (misalnya, NELINET, INCOLSA). Hal ini diprediksi bahwa sebagai teknologi
+berkembang lebih banyak layanan akan diberikan di luar perpustakaan langsung ke
+pengguna melalui rumah atau kantornya.
 .B
-(JASIS, Vol. 31, No. 6, November 1980, pp. 425-437)
+(JASIS, Vol. 31, No. 6, November 1980, hlm. 425-437)
 
 .I 67
 .T
-The Use of Titles for Automatic Document Classification
+Penggunaan Judul untuk Klasifikasi Dokumen Otomatis
 .A
-Hamill, K.A.
+Hamil, KA
 Zamora, A.
 .W
-    An experimental computer program has been developed to classify
-documents according to the 80 sections and five major section groupings of
-Chemical Abstracts (CA).  The program uses pattern recognition techniques
-supplemented by heuristics.  During the "training" phase, words from
-pre-classified documents are selected, and the probability of occurrence
-of each word in each section of CA is computed and stored in a reference
-dictionary.  The "classification" phase matches each word of a document
-title against the dictionary and assigns a section number to the document
-using weights derived from the probabilities in the dictionary.  Heuristic
-techniques are used to normalize word variants such as plurals, past
-tenses, and gerunds in both the training phase and the classification
-phase.  The dictionary lookup technique is supplemented by the analysis of
-chemical nomenclature terms into their component word roots to influence
-the section to which the documents are assigned.  Program performance and
-human consistency have been evaluated by comparing the program results
-against the published sections of CA and by conducting an experiment with
-people experienced in the assignment of documents to CA sections.  The
-program assigned approximately 78% of the documents to the correct major
-section groupings of CA and 67% of the correct sections or cross-references
-at a rate of 100 documents per second.
+Program komputer eksperimental telah dikembangkan untuk mengklasifikasikan
+dokumen menurut 80 bagian dan lima pengelompokan bagian utama
+Abstrak Kimia (CA). Program ini menggunakan teknik pengenalan pola
+dilengkapi dengan heuristik. Selama fase "pelatihan", kata-kata dari
+dokumen pra-klasifikasi dipilih, dan kemungkinan terjadinya
+dari setiap kata di setiap bagian CA dihitung dan disimpan dalam referensi
+kamus. Fase "klasifikasi" mencocokkan setiap kata dari sebuah dokumen
+judul terhadap kamus dan memberikan nomor bagian ke dokumen
+menggunakan bobot yang berasal dari probabilitas dalam kamus. Heuristis
+teknik yang digunakan untuk menormalkan varian kata seperti jamak, lampau
+tenses, dan gerund baik dalam fase pelatihan maupun klasifikasi
+fase. Teknik pencarian kamus dilengkapi dengan analisis
+istilah nomenklatur kimia ke akar kata komponen mereka untuk mempengaruhi
+bagian di mana dokumen ditugaskan. kinerja program dan
+konsistensi manusia telah dievaluasi dengan membandingkan hasil program
+terhadap bagian CA yang diterbitkan dan dengan melakukan percobaan dengan
+orang yang berpengalaman dalam penugasan dokumen ke bagian CA. Itu
+program menugaskan sekitar 78% dokumen ke jurusan yang benar
+pengelompokan bagian CA dan 67% dari bagian atau referensi silang yang benar
+dengan kecepatan 100 dokumen per detik.
 .B
-(JASIS, Vol. 31, No. 6, November 1980, pp. 396-402)
+(JASIS, Vol. 31, No. 6, November 1980, hlm. 396-402)
 
 .I 68
 .T
-Brief Communications
+Komunikasi Singkat
 .A
-Harding, A.G.
-Willett, P.
+Harding, AG
+Willet, P.
 .W
-    Some of the automatic classification procedures used in information
-retrieval derive clusters of documents from an intermediate similarity
-matrix, the computation of which involves comparing each of the documents
-in the collection with all of the others.  It has recently been suggested
-that many of these comparisons, specifically those between documents
-having no terms in common, may be avoided by means of the uyse of an inverted
-file to the document collection.  This communication shows that the
-approach will effect reductions in the number of interdocument comparisons
-only if the documents are each indexed by a limited number of indexing
-terms; if exhaustive indexing is used, many document pairs will be compared
-several times over and the computation will be greater than when
-conventional approaches are used to generate the similarity matrix.
+Beberapa prosedur klasifikasi otomatis digunakan dalam informasi
+pengambilan memperoleh kelompok dokumen dari kesamaan menengah
+matriks, perhitungan yang melibatkan membandingkan setiap dokumen
+dalam koleksi dengan yang lainnya. Baru-baru ini telah disarankan
+bahwa banyak dari perbandingan ini, khususnya antara dokumen
+tidak memiliki istilah yang sama, dapat dihindari dengan cara terbalik
+file ke koleksi dokumen. Komunikasi ini menunjukkan bahwa
+pendekatan akan mempengaruhi pengurangan jumlah perbandingan antar dokumen
+hanya jika dokumen masing-masing diindeks dengan jumlah pengindeksan yang terbatas
+ketentuan; jika pengindeksan lengkap digunakan, banyak pasangan dokumen akan dibandingkan
+beberapa kali lipat dan perhitungannya akan lebih besar dari kapan
+pendekatan konvensional digunakan untuk menghasilkan matriks kesamaan.
 .B
-(JASIS, Vol. 31, No. 4, July 1980, pp. 298-299)
+(JASIS, Vol. 31, No. 4, Juli 1980, hlm. 298-299)
 
 .I 69
 .T
-The Application of a Minicomputer to Thesaurus Construction
+Penerapan Komputer Mini untuk Konstruksi Thesaurus
 .A
-Kazlauskas, E.J.
-Holt, T.D.
+Kazlauskas, EJ
+Holt, TD
 .W
-    The Use of a minicomputer in various phases of creating the thesaurus
-for the National Information Center for Special Education Materials
-(NICSEM) database is described.  The minicomputer is used to collect,
-edit, and correct candidate thesaurus terms.  The use of the minicomputer
-eases the process of grouping terms into files of similar concepts and
-facilitates the generation of products useful in vocabulary review and in
-term structuring.  Syndetic relations, indicated by assigning coded
-identification numbers, are altered easily in the design phase to reflect
-restructuring requirements.  Because thesaurus terms are already in machine-
-readable form, it is simple to prepare print programs to provide permuted,
-alphabetic, hierarchical, and chart formatted term displays.  Overall, the
-use of the minicomputer facilitates initial thesaurus entry development by
-reducing clerical effort, editorial staff decisions, and overall processing
-times.
+Penggunaan komputer mini dalam berbagai fase pembuatan tesaurus
+untuk Pusat Informasi Nasional untuk Materi Pendidikan Khusus
+(NICSEM) database dijelaskan. Komputer mini digunakan untuk mengumpulkan,
+edit, dan koreksi istilah tesaurus kandidat. Penggunaan komputer mini
+memudahkan proses pengelompokan istilah ke dalam file konsep serupa dan
+memfasilitasi pembuatan produk yang berguna dalam tinjauan kosa kata dan dalam
+penataan istilah. Relasi sindetis, ditunjukkan dengan pemberian kode
+nomor identifikasi, diubah dengan mudah dalam fase desain untuk mencerminkan
+persyaratan restrukturisasi. Karena istilah tesaurus sudah ada di mesin
+bentuk yang dapat dibaca, mudah untuk menyiapkan program cetak untuk menyediakan permutasi,
+tampilan istilah berformat abjad, hierarkis, dan bagan. Secara keseluruhan,
+penggunaan komputer mini memfasilitasi pengembangan entri thesaurus awal oleh
+mengurangi upaya klerikal, keputusan staf editorial, dan pemrosesan keseluruhan
+waktu.
 .B
-(JASIS, Vol. 31, No. 5, September 1980, pp. 363-368)
+(JASIS, Vol. 31, No. 5, September 1980, hlm. 363-368)
 
 .I 70
 .T
-Adaptive Design for Decision Support Systems
+Desain Adaptif untuk Sistem Pendukung Keputusan
 .A
-Keen, P.G.W.
+Tertarik, PGW
 .W
-    Decision Support Systems (DSS) represent a concept of the role of
-computers within the decision making process.  The term has become a
-rallying cry for researchers, practitioners, and managers concerned that
-Management Science and Management Information Systems fields have become
-unnecessarily narrow in focus.  As with many rallying cries, the term is
-not well defined.  For some writers, DSS simply mean interactive systems
-for use by managers.  To others, the key issue is support, rather than
-system.  They focus on understanding and improving the decision process;
-a DSS is then designed using any available and suitable technology. Some
-researchers view DSS as a subfield of MIS, while others regard it as an
-extension of Management Science techniques.  The former define Decision
-Support as providing managers with access to data and the latter as giving
-them access to analytic models.
+Sistem Pendukung Keputusan (DSS) merupakan konsep peran
+komputer dalam proses pengambilan keputusan. Istilah tersebut menjadi a
+seruan bagi para peneliti, praktisi, dan manajer yang peduli akan hal itu
+Ilmu Manajemen dan Sistem Informasi Manajemen telah menjadi bidang
+terlalu sempit dalam fokus. Seperti banyak seruan, istilahnya adalah
+tidak terdefinisi dengan baik. Bagi beberapa penulis, DSS berarti sistem interaktif
+untuk digunakan oleh manajer. Bagi yang lain, masalah utamanya adalah dukungan, bukan
+sistem. Mereka fokus pada pemahaman dan peningkatan proses pengambilan keputusan;
+DSS kemudian dirancang menggunakan teknologi apa pun yang tersedia dan sesuai. Beberapa
+peneliti melihat DSS sebagai subbidang MIS, sementara yang lain menganggapnya sebagai
+perluasan teknik Ilmu Manajemen. Yang pertama mendefinisikan Keputusan
+Dukungan sebagai menyediakan manajer dengan akses ke data dan yang terakhir sebagai memberi
+mereka akses ke model analitik.
 
-    The key argument of this paper is that the term DSS is relevant to
-situations where a "final" system can be developed only through an
-adaptive process of learning and evolution.  The design strategy must
-then focus on getting finished; this is very different from Management
-Science and Data Processing approaches.  The research issued for DSS
-center around adaption and evolution; they include managerial learning
-representation of tasks and user behavior, design architecture and
-strategies for getting started.
+Argumen utama dari makalah ini adalah bahwa istilah DSS relevan dengan
+situasi di mana sistem "final" hanya dapat dikembangkan melalui
+proses belajar dan evolusi yang adaptif. Strategi desain harus
+kemudian fokus untuk menyelesaikannya; ini sangat berbeda dengan Manajemen
+Pendekatan Sains dan Pengolahan Data. Penelitian dikeluarkan untuk DSS
+berpusat pada adaptasi dan evolusi; mereka termasuk pembelajaran manajerial
+representasi tugas dan perilaku pengguna, arsitektur desain dan
+strategi untuk memulai.
 .B
-(Database, Vol. 12, No. 1-2, Fall 1980)
+(Database, Vol. 12, No. 1-2, Musim Gugur 1980)
 
 .I 71
 .T
-An Automatic Method for Extracting Significant
-Phrases in Scienfific or Technical Documents
+Metode Otomatis untuk Mengekstraksi Signifikansi
+Frasa dalam Dokumen Ilmiah atau Teknis
 .A
 Maeda, T.
 Momouchi, J.
 Sawamura, H.
 .W
-    A new method is described to extract significant phrases in the title
-and the abstreact of scientific or technical documents.  The method is
-based upon a text structure analysis and uses a relatively small dictionary.
-The dictionary has been constructed based on the knowledge about concepts
-in the field of science or technology and some lexical knowledge.  For
-significant phrases and their component items may be used in different
-meanings among the fields.  A text analysius approach has been applied to
-select significant phrases as substantial and semantic information carriers
-of the contents of the abstract.
+Metode baru dijelaskan untuk mengekstrak frase penting dalam judul
+dan abstrak dari dokumen ilmiah atau teknis. Metodenya adalah
+berdasarkan analisis struktur teks dan menggunakan kamus yang relatif kecil.
+Kamus telah dibangun berdasarkan pengetahuan tentang konsep
+di bidang sains atau teknologi dan beberapa pengetahuan leksikal. Untuk
+frase signifikan dan item komponennya dapat digunakan dalam berbagai
+makna di antara bidang-bidang. Pendekatan analisis teks telah diterapkan
+pilih frase signifikan sebagai pembawa informasi substansial dan semantik
+dari isi abstrak.
 
-    The results of the experiment for five sets of documents have shown
-that the significant phrases are effectively extracted in all cases, and
-the number of them for every document and the processing time is fairly
-satisfactory.  The information representation of the document, partly
-using the method, is discussed with relation to the construction of the
-document information retrieval system.
+Hasil percobaan untuk lima set dokumen telah ditunjukkan
+bahwa frasa penting diekstraksi secara efektif dalam semua kasus, dan
+jumlah mereka untuk setiap dokumen dan waktu pemrosesan cukup
+memuaskan. Representasi informasi dari dokumen, sebagian
+dengan menggunakan metode tersebut, dibahas kaitannya dengan konstruksi bangunan tersebut
+sistem pencarian informasi dokumen.
 .B
-(Info. Proc. & Management, Vol. 16, No. 3, 1980, pp.119-127)
+(Info. Proses & Manajemen, Vol. 16, No. 3, 1980, hlm.119-127)
 
 .I 72
 .T
-Answer-Passage Retrieval by Text Searching
+Pengambilan Jawaban-Passage dengan Pencarian Teks
 .A
 O'Connor, J.
 .W
-    Passage retrieval (already operational for lawyers) has advantages in
-output form opver references retrieval and is economically feasible.
-Previous experiments in passage retrieval for scientists have demonstrated
-recall and false retrieval rates as good or better than those of present
-reference retrieval services.  The present experiment involved a greater
-variety of forms of retrieval question.  In addition, search words were
-selected independently by two different people for each retrieval question.
-The search words selected, in combination with the computer procedures used
-for passage retrieval, produced average recall ratios of 72 and 67%,
-respectively, for the two selectors.  The false retrieval rates were (except
-for one predictably difficult question) respectively 13 and 10 falsely
-retrieved sentences per answer-paper retrieved.
+Pengambilan bagian (sudah beroperasi untuk pengacara) memiliki keuntungan dalam
+output dari pengambilan referensi opver dan layak secara ekonomi.
+Eksperimen sebelumnya dalam pengambilan bagian untuk para ilmuwan telah menunjukkan
+mengingat dan tingkat pengambilan yang salah sama baiknya atau lebih baik daripada yang ada sekarang
+layanan pencarian referensi. Percobaan ini melibatkan lebih besar
+berbagai bentuk pertanyaan pengambilan. Selain itu, kata pencarian itu
+dipilih secara independen oleh dua orang yang berbeda untuk setiap pertanyaan pengambilan.
+Kata-kata pencarian dipilih, dikombinasikan dengan prosedur komputer yang digunakan
+untuk pengambilan bagian, menghasilkan rasio penarikan rata-rata 72 dan 67%,
+masing-masing, untuk dua pemilih. Tingkat pengambilan palsu adalah (kecuali
+untuk satu pertanyaan sulit diprediksi) masing-masing 13 dan 10 salah
+kalimat yang diambil per kertas jawaban yang diambil.
 .B
-(JASIS, Vol. 31, No. 4, July 1980, pp. 227-239)
+(JASIS, Vol. 31, No. 4, Juli 1980, hlm. 227-239)
 
 .I 73
 .T
-Partial-Match Retrieval Using Indexed Descriptor Files
+Pengambilan Partial-Match Menggunakan File Descriptor Terindeks
 .A
-Pfaltz, J.L.
-Berman, W.J.
-Cagley, E.M.
+Pfalz, JL
+Berman, WJ
+Cagley, EM
 .W
-    In this paper we describe a practical method of partial-match retrieval
-in very large data files.  A binary code word, called a descriptor, is
-associated with each record of the file.  These record descriptors are
-then used to form a derived descriptor for a block of several records,
-which will serve as an index for the block as a whole; hence, the name
-"indexed descriptor files."
+Dalam makalah ini kami menjelaskan metode praktis pengambilan kecocokan parsial
+dalam file data yang sangat besar. Sebuah kata kode biner, yang disebut deskriptor, adalah
+terkait dengan setiap catatan file. Deskriptor catatan ini adalah
+kemudian digunakan untuk membentuk deskriptor turunan untuk blok beberapa catatan,
+yang akan berfungsi sebagai indeks untuk blok secara keseluruhan; maka nama
+"file deskriptor yang diindeks."
 
-    First the structure of these files is described and a simple, efficient
-retrieval algorithm is presented.  Then its expected behavior, in terms of
-storage accesses, is analyzed in detail.  Two different file creation
-procedures are sketched, and a number of ways in which the file organization
-can be "tuned" to a particular application is suggested.
+Pertama struktur file-file ini dijelaskan dan sederhana, efisien
+algoritma pengambilan disajikan. Kemudian perilaku yang diharapkan, dalam hal
+akses penyimpanan, dianalisis secara rinci. Dua pembuatan file yang berbeda
+prosedur dibuat sketsa, dan sejumlah cara di mana organisasi file
+dapat "disetel" ke aplikasi tertentu yang disarankan.
 .B
-(Commun. ACM, Vol. 23, No. 9, September 1980, pp. 522-528)
+(Commun. ACM, Vol. 23, No. 9, September 1980, hlm. 522-528)
 
 .I 74
 .T
-Cooperation and Competition Among Library Networks
+Kerjasama dan Persaingan Antar Jaringan Perpustakaan
 .A
-Robinson, B.M.
+Robinson, BM
 .W
-    Recenty technological advances and the success of OCLC, Inc. has led
-to the emergence of three additional nonprofit library networks:  the
-Research Libraries Information Network (RLIN) of the Research Libraries
-Group, Inc., the University of Toronto Library Automation System (UTLAS),
-and the Washington Library Network (WLN).  This paper examines the economic
-and technological factors affecting the evolution of these networks and
-also explores the role of those state and regional (multistate) networks
-that broker OCLC services.  The competitive and cooperative nature of
-network relationships is a major theme of the discussion.
+Kemajuan teknologi baru-baru ini dan keberhasilan OCLC, Inc
+hingga munculnya tiga jaringan perpustakaan nirlaba tambahan: the
+Jaringan Informasi Perpustakaan Riset (RLIN) dari Perpustakaan Riset
+Group, Inc., Sistem Otomasi Perpustakaan Universitas Toronto (UTLAS),
+dan Jaringan Perpustakaan Washington (WLN). Makalah ini membahas ekonomi
+dan faktor teknologi yang mempengaruhi evolusi jaringan ini dan
+juga mengeksplorasi peran jaringan negara bagian dan regional (multinegara) tersebut
+bahwa layanan broker OCLC. Sifat kompetitif dan kooperatif dari
+hubungan jaringan adalah tema utama dari diskusi.
 .B
-(JASIS, Vol. 31, No. 6, November 1980, pp. 413-424)
+(JASIS, Vol. 31, No. 6, November 1980, hlm. 413-424)
 
 .I 75
 .T
-An Integrated Understander
+Pemahaman yang Terintegrasi
 .A
-Schank, R.C.
+Schank, RC
 Lebowitz, M.
-Birnbarim, L.
+Bernbarim, L.
 .W
-    A new type of natural language parser is presented.  The idea behind
-this parser is to map input sentences into the deepest form of the
-representation of their meaning and inferences, as is appropriate.  The
-parser is not distinct from an entire understanding system.  It uses an
-integrated conception of inferences, scripts, plans and other knowledge to
-aid in the parse.  Furthermore, it does not attempt to parse everything it
-sees.  Rather, it determines what is most interesting and concentrates on
-that, ignoring the rest.
+Jenis baru pengurai bahasa alami disajikan. Ide di belakang
+parser ini adalah untuk memetakan kalimat input ke dalam bentuk terdalam dari
+representasi makna dan kesimpulan mereka, yang sesuai. Itu
+parser tidak berbeda dari keseluruhan sistem pemahaman. Ini menggunakan
+konsepsi yang terintegrasi dari kesimpulan, script, rencana dan pengetahuan lainnya untuk
+bantuan dalam parse. Selain itu, ia tidak berusaha mengurai semuanya
+melihat. Sebaliknya, itu menentukan apa yang paling menarik dan berkonsentrasi
+itu, mengabaikan sisanya.
 .B
-(Am. J. of Computational Linguistics, Vol. 6, No. 1, January-March 1980,
-pp. 13-30)
+(Am. J. of Computational Linguistics, Vol. 6, No. 1, Januari-Maret 1980,
+hlm. 13-30)
 
 .I 76
 .T
-Library Networks and Resource Sharing in the United States:
-An Historical and Philosophical Overview
+Jaringan Perpustakaan dan Berbagi Sumber Daya di Amerika Serikat:
+Tinjauan Sejarah dan Filosofis
 .A
-Stevens, N.D.
+Stevens, ND
 .W
-    This paper discusses the origins of library networks and traces their
-development in the United States in the late 1960s through the present.
-The concept of resource sharing, with particular attention to the inter-
-library loan and programs for the cooperative acquisition and storage of
-materials, is examined in relationship to library networks.  In particular,
-attention is given to the question of how these two major components of
-library cooperation, which have tended to be separate, might become more
-closely integrated.
+Tulisan ini membahas asal-usul jaringan perpustakaan dan jejaknya
+pembangunan di Amerika Serikat pada akhir 1960-an sampai sekarang.
+Konsep berbagi sumber daya, dengan perhatian khusus pada antar
+pinjaman perpustakaan dan program untuk akuisisi koperasi dan penyimpanan
+bahan, diperiksa dalam hubungannya dengan jaringan perpustakaan. Secara khusus,
+perhatian diberikan pada pertanyaan tentang bagaimana dua komponen utama ini
+kerjasama perpustakaan yang selama ini cenderung terpisah dapat menjadi lebih banyak
+terintegrasi erat.
 .B
-(JASIS, Vol. 31, No. 6, November 1980, pp. 405-412)
+(JASIS, Vol. 31, No. 6, November 1980, hlm. 405-412)
 
 .I 77
 .T
-Normalization of Titles and Their Retrieval
+Normalisasi Judul dan Pengambilannya
 .A
 Takamatsu, S.
 Fujita, UY.
 Nishida, F.
 .W
-    This paper presents a method of normalizations of English titles and
-their retrieval.  The title expressed by a noun phrase or a noun clause
-is converted to a function-expression by parsing.  For the retrieval with
-a reasonable recall rate as well as a high precision rate, the function-
-expression is transformed to a predicate-governor form, and then normalized
-to a standard form.  Therefrom, various items are extracted and recorded
-in a hierarchical tree-like inverted file.
+Makalah ini menyajikan metode normalisasi judul bahasa Inggris dan
+pengambilan mereka. Judul yang diungkapkan oleh frasa kata benda atau klausa kata benda
+diubah menjadi ekspresi fungsi dengan parsing. Untuk pengambilan dengan
+tingkat penarikan yang wajar serta tingkat presisi tinggi, fungsi-
+ekspresi diubah menjadi bentuk predikat-gubernur, dan kemudian dinormalisasi
+ke bentuk standar. Dari situ, berbagai item diekstraksi dan dicatat
+dalam file terbalik seperti pohon hierarkis.
 
-    In order to keep the recall rate in a reasonable value, several
-retrieval stages are implemented based on the key-term and case-label
-matching.  The retrieval is controlled by the preciseness of the specification
-of case-labels for each key-term.
+Untuk menjaga tingkat penarikan dalam nilai yang wajar, beberapa
+tahapan retrieval diimplementasikan berdasarkan key-term dan case-label
+cocok. Pengambilan dikendalikan oleh ketepatan spesifikasi
+label kasus untuk setiap istilah kunci.
 .B
-(Info. Proc. & Management, Vol. 16, No. 3, 1980, pp. 155-167)
+(Info. Proc. & Management, Vol. 16, No. 3, 1980, hlm. 155-167)
 
 .I 78
 .T
-Cascaded ATN Grammars
+Tata Bahasa ATN bertingkat
 .A
-Woods, W.A.
+Hutan, WA
 .W
-    A generalization of the notion of ATN grammar, called a cascaded ATN
-(CATN), is prescribed.  CATN's permit a decomposition of complex language
-understanding behavior into a sequence of cooperating ATN's with separate
-domain of responsibility, where each stage (called an ATN transducer)
-takes its input from the output of the previous stage.  The paper includes
-an extensive discjussion of the principles of factoring-conceptual
-factoring reduces the number of places that a given fact needs to be
-represented in a grammar, and hypothesis factoring reduces the number
-of distinct hypotheses that have to be considered during parsing.
+Sebuah generalisasi dari pengertian tata bahasa ATN, disebut dengan cascaded ATN
+(CATN), ditentukan. Izin CATN dekomposisi bahasa yang kompleks
+memahami perilaku menjadi urutan kerja sama ATN dengan terpisah
+domain tanggung jawab, di mana setiap tahap (disebut transduser ATN)
+mengambil inputnya dari output tahap sebelumnya. Kertas termasuk
+diskusi yang luas tentang prinsip-prinsip pemfaktoran-konseptual
+anjak piutang mengurangi jumlah tempat yang dibutuhkan fakta tertentu
+direpresentasikan dalam tata bahasa, dan anjak hipotesis mengurangi jumlahnya
+hipotesis yang berbeda yang harus dipertimbangkan selama parsing.
 .B
-(Am. of Computational Linguistics, Vol. 6, No. 1, January-March 1980)
+(Am. of Computational Linguistics, Vol. 6, No. 1, Januari-Maret 1980)
 
 .I 79
 .T
-Algorithms for Processing Partial Match Queries Using Word Fragments
+Algoritma untuk Memproses Query Partial Match Menggunakan Fragmen Kata
 .A
-Alagar, V.S.
+Alagar, VS
 .W
-    Algorithms are given to process partially specified queries in a
-compressed database system.  The proposed methods handle effectively
-queries that use either whole words or word fragments as language elements.
-The methods are compared and critically evaluated in terms of the design
-and retrieval costs.  The analyses show that the method which exploits the
-interdependence of fragments as well as the relevance of fragments to
-records in the file has maximum design cost and least retrieval cost.
+Algoritma diberikan untuk memproses kueri yang ditentukan sebagian dalam a
+sistem database terkompresi. Metode yang diusulkan menangani secara efektif
+kueri yang menggunakan seluruh kata atau fragmen kata sebagai elemen bahasa.
+Metode dibandingkan dan dievaluasi secara kritis dalam hal desain
+dan biaya pengambilan. Analisis menunjukkan bahwa metode yang mengeksploitasi
+saling ketergantungan fragmen serta relevansi fragmen untuk
+catatan dalam file memiliki biaya desain maksimum dan biaya pengambilan paling sedikit.
 .B
-(Inform. Systems, Vol. 5, No. 4, April 1980, pp. 323-332)
+(Inform. Systems, Vol. 5, No. 4, April 1980, hlm. 323-332)
 
 .I 80
 .T
-A General Formulation of Bradford's Distribution:  The Graph-Oriented
-Approach
+Formulasi Umum Distribusi Bradford: Berorientasi Graf
+Mendekati
 .A
-Asai, I.
+Asai, saya.
 .W
-    From the detailed analysis of eight previously published mathematical
-models, a general formulation of Bradford's distribution can be deduced as
-follows:  y = a log(x + c) + b, where y is the ratio of the cumulative
-frequency of articles to the total number of articles and x is the ratio
-of the rank of journals to the total number of journals.  The parameters a, b,
-and c are the slope, the intercept, and the shift in a straight line to log rank,
-respectively.  Each of the eight models is a special case of the general
-formulation and is one of five types of formulation.  In order to estimate
-three unknown parameters, a statistical method using root-weighted square
-error is proposed.  A comparative experiment using 11 databases suggests that
-the fifth type of formulation with three unknown parameters is the best fit
-to the observed data.  A further experiment shows that the deletion of the
-droop data leads to a more accurate value of parameters and less error.
+Dari analisis terperinci dari delapan matematika yang diterbitkan sebelumnya
+model, formulasi umum distribusi Bradford dapat disimpulkan sebagai
+berikut: y = a log(x + c) + b, dimana y adalah rasio kumulatif
+frekuensi artikel dengan jumlah total artikel dan x adalah rasio
+dari peringkat jurnal dengan jumlah jurnal. Parameter a, b,
+dan c adalah kemiringan, titik potong, dan pergeseran garis lurus ke log rank,
+masing-masing. Masing-masing dari delapan model adalah kasus khusus dari sang jenderal
+formulasi dan merupakan salah satu dari lima jenis formulasi. Untuk memperkirakan
+tiga parameter yang tidak diketahui, metode statistik menggunakan root-weighted square
+kesalahan diusulkan. Eksperimen komparatif menggunakan 11 database menunjukkan hal itu
+jenis formulasi kelima dengan tiga parameter yang tidak diketahui adalah yang paling cocok
+ke data yang diamati. Eksperimen lebih lanjut menunjukkan bahwa penghapusan
+droop data mengarah ke nilai parameter yang lebih akurat dan lebih sedikit kesalahan.
 .B
-(JASIS, Vol. 32, No. 2, March 1981, pp. 113-121)
+(JASIS, Vol. 32, No. 2, Maret 1981, hlm. 113-121)
 
 .I 81
 .T
-Lexical Problems in Large Distributed Information Systems
+Masalah Leksikal dalam Sistem Informasi Terdistribusi Besar
 .A
-Berkovich, S.Y.
+Berkovich, SY
 Shneiderman, B.
 .W
-    The lexical problems in large information systems are created by the
-necessity of handling a great number of names and their interrelations.
-Such lexical problems are not covered completely by the concept data
-dictionaries, which are mostly concerned with database scheme design rather
-than the execution of operations.  In this paper we introduce our view of a
-lexical subsystem as a separate component in an information system architecture,
-to deal with linguistic and control functions concerning the lexical problems
-in local and network environments.  The lexical suybsystem is a special
-efficiently organized program package, which plays the role of a "linguistic
-filter" in a broad sense for lexically incorrect queries, promotes integration
-of databases and information retrieval systems, and facilitates the creation
-of local information systems.  We hope that lexical subsystems can become
-productive for any large, especially distributed, information system.
+Masalah leksikal dalam sistem informasi besar diciptakan oleh
+perlunya menangani sejumlah besar nama dan keterkaitan mereka.
+Masalah leksikal seperti itu tidak tercakup sepenuhnya oleh data konsep
+kamus, yang sebagian besar berkaitan dengan desain skema database
+daripada pelaksanaan operasi. Dalam makalah ini kami memperkenalkan pandangan kami tentang a
+subsistem leksikal sebagai komponen terpisah dalam arsitektur sistem informasi,
+untuk menangani fungsi linguistik dan kontrol mengenai masalah leksikal
+di lingkungan lokal dan jaringan. Suybsystem leksikal adalah khusus
+paket program yang terorganisir secara efisien, yang memainkan peran "linguistik
+filter" dalam arti luas untuk kueri yang salah secara leksikal, mendorong integrasi
+database dan sistem pencarian informasi, dan memfasilitasi pembuatannya
+dari sistem informasi lokal. Kami berharap subsistem leksikal dapat menjadi
+produktif untuk sistem informasi besar, terutama terdistribusi.
 .B
-(Information Processing & Management, Vol. 16, February 1980, pp. 259-267)
+(Pemrosesan & Manajemen Informasi, Vol. 16, Februari 1980, hlm. 259-267)
 
 .I 82
 .T
-The Relational Model in Information Retrieval
+Model Relasional dalam Pengambilan Informasi
 .A
-Crawford, R.G.
+Crawford, RG
 .W
-    The relational model has received increasing attention during the
-past decade.  Its advantages include simplicity, consistency, and a sound
-theoretical basis.  In this article, the naturalness of viewing information
-retrieval relationally is demonstrated.  The relational model is presented,
-and the relational organization of a bibliographical database is shown.
-The notion of normalization is introduced and first, second, third, and
-fourth normal forms are demonstrated.  Relational languages are discussed,
-including the relational calculus, relational algebra, and SEQUEL.
-Numerous examples pertinent to information retrieval are presented in these
-relational languages.  Advantages of the relational approach to information
-retrieval are noted.
+Model relasional telah mendapat perhatian yang meningkat selama
+dekade terakhir. Keuntungannya termasuk kesederhanaan, konsistensi, dan suara
+landasan teori. Dalam artikel ini, kealamian melihat informasi
+pengambilan relasional ditunjukkan. Model relasional disajikan,
+dan organisasi relasional dari database bibliografi ditampilkan.
+Gagasan normalisasi diperkenalkan dan pertama, kedua, ketiga, dan
+bentuk normal keempat ditunjukkan. Bahasa relasional dibahas,
+termasuk kalkulus relasional, aljabar relasional, dan SEQUEL.
+Banyak contoh yang berkaitan dengan pencarian informasi disajikan di sini
+bahasa relasional. Keuntungan dari pendekatan relasional terhadap informasi
+pengambilan dicatat.
 .B
-(JASIS, Vol. 32, No. 1, January 1981, pp. 51-64)
+(JASIS, Vol. 32, No. 1, Januari 1981, hlm. 51-64)
 
 .I 83
 .T
-Electronic Information Interchange in an Office Environment
+Pertukaran Informasi Elektronik di Lingkungan Perkantoran
 .A
-DeSousa, M.R.
+DeSousa, MR
 .W
-    This paper describes an architectural approach that provides information
-exchange across a broad spectrum of user applications and office automation
-offerings.  Some of the architectures described herein are currently
-implemented in existing IBM products.  These and other architectures will
-provide the basis for document interchange capability between products
-such as the IBM 5520 Administrative System, the IBM System/370 Distributed
-Office Support System (DISOSS), and the IBM Displaywriter System.
-Specifically described is a document distribution architecture and its
-associated data streams and others.
+Makalah ini menjelaskan pendekatan arsitektur yang menyediakan informasi
+pertukaran di spektrum yang luas dari aplikasi pengguna dan otomatisasi kantor
+persembahan. Beberapa arsitektur yang dijelaskan di sini saat ini
+diimplementasikan dalam produk IBM yang ada. Ini dan arsitektur lainnya akan
+memberikan dasar untuk kemampuan pertukaran dokumen antar produk
+seperti Sistem Administratif IBM 5520, Sistem IBM/370 Terdistribusi
+Sistem Pendukung Office (DISOSS), dan Sistem Penulis Tampilan IBM.
+Dijelaskan secara khusus adalah arsitektur distribusi dokumen dan
+aliran data terkait dan lainnya.
 
-    A general overview of the architectures as opposed to a detailed
-technical description is provided.  The architectures described are
-protocols for interchange between application processes; they do not
-address the specific user interface.  The document distribution
-architectures utilize SNA for data transmission and communications control
-facilities.
+Tinjauan umum arsitektur sebagai lawan dari detail
+deskripsi teknis disediakan. Arsitektur yang dijelaskan adalah
+protokol untuk pertukaran antar proses aplikasi; mereka tidak
+mengatasi antarmuka pengguna tertentu. Distribusi dokumen
+arsitektur memanfaatkan SNA untuk transmisi data dan kontrol komunikasi
+fasilitas.
 .B
-(IBM Systems Journal, Vol. 20, No. 1, 1981, pp. 4-22)
+(IBM Systems Journal, Vol. 20, No. 1, 1981, hlm. 4-22)
 
 .I 84
 .T
-The Use of Automatic Relevance Feedback in Boolean Retrieval Systems
+Penggunaan Umpan Balik Relevansi Otomatis dalam Sistem Pengambilan Boolean
 .A
-Dillon, M.
+Dilon, M.
 Desper, J.
 .W
-    A technique is described for automatic reformulation of boolean
-queries.  Based on patron relevance judgements of an initial retrieval,
-prevalence measures are derived for terms appearing in the retrieved set
-of documents that reflect a term's distribution among the relevant and
-non-relevant documents.  These measures are then used to guide the
-construction of a boolean query for a subsequent retrieval.  To illustrate
-the technique, a series of tests is described of its application to a small
-data base in an experimental environment.  Results compare favourably with
-feedback as employed in a SMART-type system.  MOre extensive testing is
-suggested to validate the technique.
+Sebuah teknik dijelaskan untuk formulasi ulang otomatis boolean
+kueri. Berdasarkan penilaian relevansi pelindung dari pengambilan awal,
+ukuran prevalensi diturunkan untuk istilah yang muncul di set yang diambil
+dokumen yang mencerminkan distribusi istilah di antara yang relevan dan
+dokumen yang tidak relevan. Langkah-langkah ini kemudian digunakan untuk memandu
+konstruksi kueri boolean untuk pengambilan berikutnya. Menggambarkan
+Tekniknya, serangkaian tes dijelaskan penerapannya ke yang kecil
+basis data dalam lingkungan percobaan. Hasil lebih baik dibandingkan dengan
+umpan balik seperti yang digunakan dalam sistem tipe SMART. Pengujian yang lebih ekstensif adalah
+disarankan untuk memvalidasi teknik.
 .B
-(Journal of Documentation, Vol. 36, No. 3, September 1980, pp. 197-208)
+(Jurnal Dokumentasi, Vol. 36, No. 3, September 1980, hlm. 197-208)
 
 .I 85
 .T
-Interacting in Natural Language With Artificial Systems:  The Donau Project
+Berinteraksi dalam Bahasa Alami Dengan Sistem Buatan: Proyek Donau
 .A
 Guida, G.
 Somalvico, M.
 .W
-    This paper is intended to propose a new methodological approach to
-the conception and development of natural language understanding systems.
-This new contribution is supported by the design, implementation, and
-experimentation of DONAU:  a general purpose domain oriented natural
-language understanding system developed and presently running at the Milan
-Polytechnic Artificial Intelligence Project.  The system is based on a two
-level modular architecture intended to overcome the lack of flexibility and
-generality often pointed out in many existing systems, and to facilitate
-the exchange of results and actual experiences between different projects.
-The horizontal level allows an independent and parallel development of the
-single segments of the system (syntactic analyser, information extractor,
-legality controller).  The vertical level ensures the possibility of changing
-(enlarging or redefining) the definition of the semantic domain on which each
-particular version of the system is oriented and specialized in a simple,
-incremental, and user-oriented way.  In the paper the general architecture of
-the system and the mode of operation of each segment are illustrated in
-detail.  Linguistic models, knowledge representation, and parsing algorithms
-are described and illustrated by means of selected examples.  Performance
-evaluations of the system in the application version on data base inquiry are
-reported and discussed.  Promising directions for future research are presented
-in the conclusions.
+Makalah ini dimaksudkan untuk mengusulkan pendekatan metodologis baru untuk
+konsepsi dan pengembangan sistem pemahaman bahasa alami.
+Kontribusi baru ini didukung oleh desain, implementasi, dan
+eksperimen DONAU: alami berorientasi domain tujuan umum
+sistem pemahaman bahasa dikembangkan dan saat ini berjalan di Milan
+Proyek Kecerdasan Buatan Politeknik. Sistem ini didasarkan pada dua
+tingkat arsitektur modular dimaksudkan untuk mengatasi kurangnya fleksibilitas dan
+keumuman sering dikemukakan dalam banyak sistem yang ada, dan untuk memudahkan
+pertukaran hasil dan pengalaman aktual antara proyek yang berbeda.
+Tingkat horizontal memungkinkan pengembangan independen dan paralel dari
+segmen tunggal dari sistem (penganalisis sintaksis, ekstraktor informasi,
+pengawas legalitas). Tingkat vertikal memastikan kemungkinan perubahan
+(memperbesar atau mendefinisikan ulang) definisi domain semantik di mana masing-masing
+versi tertentu dari sistem diorientasikan dan dispesialisasikan secara sederhana,
+inkremental, dan berorientasi pada pengguna. Dalam makalah arsitektur umum
+sistem dan mode operasi dari setiap segmen diilustrasikan dalam
+detail. Model linguistik, representasi pengetahuan, dan algoritma parsing
+dijelaskan dan diilustrasikan melalui contoh-contoh yang dipilih. Pertunjukan
+evaluasi sistem dalam versi aplikasi pada penyelidikan basis data adalah
+dilaporkan dan didiskusikan. Arahan yang menjanjikan untuk penelitian masa depan disajikan
+dalam kesimpulan.
 .B
-(Inform. Systems, Vol. 5, NO. 4, February 1980, pp. 333-344)
+(Inform. Systems, Vol. 5, NO. 4, Februari 1980, hlm. 333-344)
 
 .I 86
 .T
-Approximate String Matching
+Perkiraan Pencocokan String
 .A
-Hall, P.A.V.
-Dowling, G.R.
+Aula, PAV
+Dowling, GR
 .W
-    Approximate matching of strings is reviewed with the aim of
-surveying techniques suitable for finding an item in a database when
-there may be a spelling mistake or other error in the keyword.  The
-methods found are classified as either equivalence or similarity problems.
-Equivalence problems are seen to be readily solved using canonical forms.
-For similarity problems difference measures are surveyed, with a full
-description of the well-established dynamic programming method relating
-this to the approach using probabilities and likelihoods.  Searches for
-approximate matches in large sets using a difference function are seen to
-be an open problem still, though several promising ideas have been
-suggested.  Approximate matching (error correction) during parsing is
-briefly reviewed.
+Perkiraan pencocokan string ditinjau dengan tujuan
+teknik survei cocok untuk menemukan item dalam database ketika
+mungkin ada kesalahan ejaan atau kesalahan lain pada kata kunci. Itu
+metode yang ditemukan diklasifikasikan sebagai masalah kesetaraan atau kesamaan.
+Masalah kesetaraan terlihat mudah dipecahkan dengan menggunakan bentuk kanonik.
+Untuk masalah kesamaan, ukuran perbedaan disurvei, dengan penuh
+deskripsi metode pemrograman dinamis mapan yang berkaitan
+ini untuk pendekatan menggunakan probabilitas dan kemungkinan. Mencari
+perkiraan kecocokan dalam set besar menggunakan fungsi perbedaan terlihat
+masih menjadi masalah terbuka, meskipun beberapa ide yang menjanjikan telah
+disarankan. Perkiraan pencocokan (koreksi kesalahan) selama parsing adalah
+ditinjau secara singkat.
 .B
-(Computing Surveys, Vol. 12, No. 4, December 1980, pp. 381-402)
+(Survei Komputasi, Vol. 12, No. 4, Desember 1980, hlm. 381-402)
 
 .I 87
 .T
-Using an Online Microfiche Catalog for Technical Service and Retrieval of
-Bibliographic Data
+Menggunakan Katalog Microfiche Online untuk Layanan Teknis dan Pengambilan
+Data Bibliografi
 .A
-Hayes, R.M.
+Hayes, RM
 Borko, H.
 .W
-    A prototype system is created that integrates a microfiche catalog
-into an online computer system for bibliographic control.  Costs and
-operational data are collected and analyzed.  The system permits the more
-economical microfiche storage of catalog records than would be feasible
-for comparable online magnetic disk storage.  Experimental tests
-demonstrate the feasibility of the online microfiche catalog system for use
-in library technical services and retrieval of bibliographic data.  The
-primary result of the project is the creation of a completely operational
-facility, including all equipment, software, procedures, and data bases
-necessary to demonstrate the system.  A second set of results is derived
-from the experimental use of the system and the evaluation of costs and
-times for various operations.  The cost effectiveness of the online microfiche
-catalog is demonstrated.
+Sistem prototipe dibuat yang mengintegrasikan katalog microfiche
+ke dalam sistem komputer online untuk kontrol bibliografi. Biaya dan
+data operasional dikumpulkan dan dianalisis. Sistem memungkinkan lebih banyak
+penyimpanan microfiche yang ekonomis dari catatan katalog daripada yang layak
+untuk penyimpanan disk magnetik online yang sebanding. Tes eksperimental
+menunjukkan kelayakan sistem katalog microfiche online untuk digunakan
+dalam layanan teknis perpustakaan dan pengambilan data bibliografi. Itu
+hasil utama dari proyek ini adalah penciptaan sepenuhnya operasional
+fasilitas, termasuk semua peralatan, perangkat lunak, prosedur, dan basis data
+diperlukan untuk mendemonstrasikan sistem. Kumpulan hasil kedua diperoleh
+dari percobaan penggunaan sistem dan evaluasi biaya dan
+kali untuk berbagai operasi. Efektivitas biaya microfiche online
+katalog diperlihatkan.
 .B
-(Information Processing and Management, Vol. 16, No. 6, February 1980,
-pp. 277-289)
+(Pemrosesan dan Manajemen Informasi, Vol. 16, No. 6, Februari 1980,
+hlm. 277-289)
 
 .I 88
 .T
-Natural Language Access to Information Systems.  An Evaluation Study
-of Its Acceptance by End Users
+Akses Bahasa Alami ke Sistem Informasi. Studi Evaluasi
+Penerimaannya oleh Pengguna Akhir
 .A
 Krause, J.
 .W
-    The question is asked whether it is feasible to use subsets of
-natural languages as query languages for data bases in actual applications
-using the question answering system "USER SPECIALTY LANGUAGES" (USL).
-Methods of evaluating a natural language based information system will
-be discussed.  The results (error and language structure evaluation)
-suggest how to form the general architecture of application systems which
-use a subset of German as query language.
+Pertanyaan yang diajukan apakah layak untuk menggunakan himpunan bagian dari
+bahasa alami sebagai bahasa kueri untuk basis data dalam aplikasi sebenarnya
+menggunakan sistem penjawab pertanyaan "USER SPECIALTY LANGUAGES" (USL).
+Metode mengevaluasi sistem informasi berbasis bahasa alami akan
+dibicarakan. Hasil (evaluasi kesalahan dan struktur bahasa)
+menyarankan bagaimana membentuk arsitektur umum sistem aplikasi yang
+gunakan subset bahasa Jerman sebagai bahasa kueri.
 .B
-(Inform. Systems, Vol. 5, No. 4, May 1980, pp. 297-318)
+(Inform. Systems, Vol. 5, No. 4, Mei 1980, hlm. 297-318)
 
 .I 89
 .T
-Some Considerations Relating to the Cost-Effectiveness of Online Services
-in Libraries
+Beberapa Pertimbangan Terkait Keefektifan Biaya Layanan Online
+di Perpustakaan
 .A
-Lancaster, F.W.
+Lancaster, FW
 .W
-    In 1978 Collier presented some hypothetical data on economic aspects
-of the use of online services as compared with subscriptions to printed
-services in libraries.  Collier's view of the economics of online searching
-seems misleadingly pessimistic because:
+Pada tahun 1978 Collier mempresentasikan beberapa data hipotetis pada aspek ekonomi
+penggunaan layanan online dibandingkan dengan langganan cetak
+layanan di perpustakaan. Pandangan Collier tentang ekonomi pencarian online
+tampaknya menyesatkan pesimis karena:
 
-1.  It looks only at costs but not at effectiveness in comparing the two
-    modes of access and searching.  An analysis combining cost and
-    effectiveness aspects (i.e., a cost-effectiveness analysis) would
-    give a completely different picture.
+1. Hanya melihat biaya tetapi tidak efektif dalam membandingkan keduanya
+mode akses dan pencarian. Analisis menggabungkan biaya dan
+aspek efektivitas (yaitu, analisis efektivitas biaya).
+memberikan gambaran yang sama sekali berbeda.
 
-2.  The way the cost data are presented is grossly unfair to the online
-    mode of access and use.
+2. Cara penyajian data biaya sangat tidak adil untuk online
+mode akses dan penggunaan.
 
-This work contains corrected information regarding online and printed
-services in libraries.
+Karya ini berisi informasi yang telah dikoreksi mengenai online dan cetak
+layanan di perpustakaan.
 .B
-(Aslib Proceedings, 33(1), January 1981, pp. 10-14, printed in Great Britain)
+(Aslib Proceedings, 33(1), Januari 1981, hlm. 10-14, dicetak di Britania Raya)
 
 .I 90
 .T
-Co-Citation Context Analysis and the Structure of Paradigms
+Analisis Konteks Co-Citation dan Struktur Paradigma
 .A
-Small, H.
+Kecil, H .
 .W
-    Many information scientists are concerned with the operation of
-document retrieval systems serving scientists in various fields.  The
-scientists served by these systems are often members of what have been called
-invisible colleges, groups of scientists in frequent communication with
-one another and involved with highly specialized subject matters.  Often
-such groups are considered to share an intellectual perspective regarding
-this subject matter, which is sometimes referred to as a paradigm.
+Banyak ilmuwan informasi prihatin dengan pengoperasian
+sistem pengambilan dokumen melayani ilmuwan di berbagai bidang. Itu
+ilmuwan yang dilayani oleh sistem ini seringkali adalah anggota dari apa yang disebut
+perguruan tinggi tak terlihat, kelompok ilmuwan yang sering berkomunikasi dengan
+satu sama lain dan terlibat dengan materi pelajaran yang sangat terspesialisasi. Sering
+kelompok-kelompok tersebut dianggap berbagi perspektif intelektual tentang
+materi pelajaran ini, yang kadang-kadang disebut sebagai paradigma.
 
-    The purpose of this paper is to show how it is possible to identify
-paradigms, using the techniques of citation analysis.  I will operationalize
-the notion of paradigm as a 'consensual structure of concepts in a field.'
-Suppose we have obtained a set of papers pertaining to some topic.  Already
-knowing something about the field, we read each text and mark passages in
-which certain specific concepts are used or discussed.  For example, we
-might find that a concept designated 'A' appears in some sub-set of the
-papers.  Suppose further that we identify those papers in which concepts 'A'
-and 'B' are used together in the same papers in a certain specified manner.
-Clearly not all concepts will combine in a natural way, and not all authors
-combining concepts 'A' and 'B' will do so in the same way, though some
-predominant mode may emerge.  For a set of n concepts their structure is
-given by the totality of admissible combinations of concepts taken from
-two to n at a time.  The frequency with which a given combination occurs
-in the sample of papers on the topic is a measure of the degree of consensus
-regarding the particular concept combination within the corpus.  For
-concepts taken two at a time, the structure can be displayed as a graph with
-concepts as nodes and the relations between them represented as lines (arcs)
-connecting the nodes.  This definition of concept structure is
-similar to the semantic network of artificial intelligence except that in
-our approach a measure of consensus weights each arc of the graph.
+Tujuan dari makalah ini adalah untuk menunjukkan bagaimana mungkin untuk mengidentifikasi
+paradigma, menggunakan teknik analisis kutipan. Saya akan mengoperasionalkan
+pengertian paradigma sebagai 'struktur konsep konsensual dalam suatu bidang.'
+Misalkan kita telah memperoleh satu set makalah yang berkaitan dengan beberapa topik. Sudah
+mengetahui sesuatu tentang lapangan, kami membaca setiap teks dan menandai bagian-bagiannya
+mana konsep spesifik tertentu digunakan atau didiskusikan. Misalnya, kami
+mungkin menemukan bahwa konsep yang ditunjuk 'A' muncul di beberapa sub-set dari
+dokumen. Misalkan lebih lanjut kita mengidentifikasi makalah-makalah di mana konsep 'A'
+dan 'B' digunakan bersama dalam makalah yang sama dengan cara tertentu.
+Jelas tidak semua konsep akan digabungkan secara alami, dan tidak semua penulis
+menggabungkan konsep 'A' dan 'B' akan melakukannya dengan cara yang sama, meskipun beberapa
+mode dominan mungkin muncul. Untuk himpunan n konsep, strukturnya adalah
+diberikan oleh totalitas kombinasi konsep yang dapat diterima yang diambil dari
+dua ke n sekaligus. Frekuensi terjadinya kombinasi tertentu
+dalam sampel makalah tentang topik tersebut adalah ukuran tingkat konsensus
+mengenai kombinasi konsep tertentu dalam korpus. Untuk
+konsep diambil dua sekaligus, struktur dapat ditampilkan sebagai grafik dengan
+konsep sebagai simpul dan hubungan di antara mereka direpresentasikan sebagai garis (busur)
+menghubungkan node. Pengertian struktur konsep ini adalah
+mirip dengan jaringan semantik kecerdasan buatan kecuali di
+pendekatan kami ukuran konsensus memberi bobot pada setiap busur grafik.
 .B
-(Journal of Documentation, Vol. 36, No. 3, September 1980, pp. 183-196)
+(Jurnal Dokumentasi, Vol. 36, No. 3, September 1980, hlm. 183-196)
 
 .I 91
 .T
-Cocited Author Retrieval Online:
-An Experiment with the Social Indicators Literature
+Pengambilan Penulis yang Diambil Secara Online:
+Eksperimen dengan Sastra Indikator Sosial
 .A
-White, H.D.
+Putih, HD
 .W
-    One mode of online retrieval in Scisearch or Social Scisearch involves
-entering pairs of authors' names believed to be jointly cited by
-subsequent writers and retrieving papers in which cocitations occur.  Six
-pairs were formed with the names of four authors prominent in the social
-indicators movement (Bauer, Duncan, Land, and Sheldon).  Documents by the
-four were not specified.  It was thought that the pair Duncan and Land
-would retrieve papers in which indicator-type data would be integrated with
-path-analytic causal modeling.  All other pairs seemed likely to retrieve a
-"general social indicators" literature.  The 298 retrieved papers confirmed
-expectattions.  It was found that 121 papers generally cited social indicators
-(SI) documents by the input authors and frequently had SI language in
-their titles.  Other signs of content also identified them as papers of
-the SI movement.  The 177 papers retrieved on Duncan and Land generally
-cited causal modeling documents by the input pair and were path-analytic
-in nature.  As expected, they were relatively "harder" than the first
-group of papers, although the two groups are akin and are formally linked
-through citations in certain papers.  An additional result is that papers
-citing at least three of the input authors tend to be overviews of the SI
-movement.
+Salah satu mode pengambilan online dalam Scisearch atau Social Scisearch melibatkan
+memasukkan pasangan nama pengarang yang diyakini dikutip bersama oleh
+penulis berikutnya dan mengambil kertas di mana cocitations terjadi. Enam
+pasangan dibentuk dengan nama empat penulis terkemuka di sosial
+pergerakan indikator (Bauer, Duncan, Land, dan Sheldon). Dokumen oleh
+empat tidak ditentukan. Diperkirakan pasangan Duncan dan Land
+akan mengambil makalah di mana data tipe indikator akan diintegrasikan
+pemodelan kausal analitik jalur. Semua pasangan lain sepertinya akan mengambil a
+literatur "indikator sosial umum". 298 makalah yang diambil dikonfirmasi
+harapan. Ditemukan bahwa 121 makalah umumnya mengutip indikator sosial
+(SI) dokumen oleh penulis input dan sering menggunakan bahasa SI
+gelar mereka. Tanda-tanda konten lainnya juga mengidentifikasi mereka sebagai makalah
+gerakan SI. 177 makalah diambil di Duncan dan Land secara umum
+mengutip dokumen pemodelan kausal oleh pasangan input dan bersifat analitik jalur
+di alam. Seperti yang diharapkan, mereka relatif "lebih keras" dari yang pertama
+sekelompok kertas, meskipun kedua kelompok itu serupa dan secara formal terkait
+melalui kutipan di surat kabar tertentu. Hasil tambahan adalah makalah itu
+mengutip setidaknya tiga dari masukan penulis cenderung ikhtisar dari SI
+pergerakan.
 .B
-(JASIS, Vol. 32, No. 1, January 1981, pp. 16-21)
+(JASIS, Vol. 32, No. 1, Januari 1981, hlm. 16-21)
 
 .I 92
 .T
-Database and Online Statistics for 1979
+Database dan Statistik Online untuk tahun 1979
 .A
-Williams M.E.
+Williams ME
 .W
-    The number of databases, records contained in databases and the online
-use of databases has increased dramatically over the past several years,
-bringing the 1979 totals for bibliographic, bioliographic-related, and
-natural language databases to 528.  These 528 databases contain 148 million
-records.  Some 4 million online searches were conducted via the major U.S.
-and Canadian systems in 1979.
+Jumlah database, catatan yang terdapat dalam database dan online
+penggunaan database telah meningkat secara dramatis selama beberapa tahun terakhir,
+membawa total 1979 untuk bibliografi, terkait bioliografi, dan
+basis data bahasa alami menjadi 528. 528 basis data ini berisi 148 juta
+catatan. Sekitar 4 juta pencarian online dilakukan melalui AS
+dan sistem Kanada pada tahun 1979.
 .B
-(Bulletin of ASIS, Vol. 7, No. 2, December 1980, pp. 27-29)
+(Buletin ASIS, Vol. 7, No. 2, Desember 1980, hlm. 27-29)
 
 .I 93
 .T
-Experiments in Local Metrical Feedback in Full-Text Retrieval Systems
+Eksperimen dalam Umpan Balik Metrik Lokal dalam Sistem Pengambilan Teks Lengkap
 .A
 Attar, R.
-Fraenkel, A.S.
+Fraenkel, AS
 .W
-    A method of iterative searching, using the results of one iteration search
-to formulate the next iteration search, was applied to a full-text database
-consisting of some 2400 documents and 1,3000,000 text-words of Hebrew and
-Aramaic.  The iterative method consists of clustering the documents returned
-in an iteration, using weighting by proximity and by frequency simultaneously.
-The process produces searchonyms, which are terms synonymous to keywords in the
-context of a single query.  Augumenting or replacing keywords by searchonyms
-via manual or automatic feedback leads to the formulation of the next iteration
-search.  The results of the experiment are consistent with those of an earlier
-small-scale experiment on an English database, and indicate that in contrast
-to global clustering where the size of matrices limits applications to small
-databases and improvements are doubtful, local metrical methods appear to be
-well suited to arbitrarily large databases, improving precision and recall
-simultaneously.  Further experiments using more test-queries run on even
-larger databases should be made to collect further evidence as to the
-performance of these methods.
+Sebuah metode pencarian iteratif, menggunakan hasil dari satu pencarian iterasi
+untuk merumuskan pencarian iterasi berikutnya, diterapkan ke database teks lengkap
+terdiri dari sekitar 2400 dokumen dan 1.3000.000 teks-kata bahasa Ibrani dan
+bahasa Aram. Metode iteratif terdiri dari pengelompokan dokumen yang dikembalikan
+dalam iterasi, menggunakan pembobotan berdasarkan kedekatan dan frekuensi secara bersamaan.
+Proses menghasilkan searchonyms, yang merupakan istilah sinonim kata kunci dalam
+konteks dari satu kueri. Menambah atau mengganti kata kunci dengan nama pencarian
+melalui umpan balik manual atau otomatis mengarah ke perumusan iterasi berikutnya
+mencari. Hasil percobaan konsisten dengan yang sebelumnya
+percobaan skala kecil pada database bahasa Inggris, dan menunjukkan bahwa sebaliknya
+ke pengelompokan global di mana ukuran matriks membatasi aplikasi menjadi kecil
+database dan perbaikan diragukan, metode metrik lokal tampaknya
+sangat cocok untuk database besar yang sewenang-wenang, meningkatkan presisi dan daya ingat
+serentak. Eksperimen lebih lanjut menggunakan lebih banyak kueri uji berjalan genap
+database yang lebih besar harus dibuat untuk mengumpulkan bukti lebih lanjut mengenai
+kinerja metode ini.
 .B
-(Information Processing & Management, Vol. 17, No. 3, 1981, pp. 115-126)
+(Pemrosesan & Manajemen Informasi, Vol. 17, No. 3, 1981, hlm. 115-126)
 
 .I 94
 .T
-A Microcomputer Alternative for Information Handling:  Refles
+Alternatif Mikrokomputer untuk Penanganan Informasi: Refles
 .A
-Bivins, K.T.
-Palmer, R.C.
+Bivins, KT
+Palmer, RC
 .W
-    REFLES is a microcomputer-based system for data retrieval in library
-environments.  The problem of information retrieval is discussed from a
-theoretical point of view, followed by an analysis of the reference process
-and data thereby gathered, leading to a description of REFLES in terms of
-its hardware and software.  REFLES, a prototype system at present, currently
-functions in a test environment.  Examples of data contained in the system
-and of its use are presented.  Future considerations and speculations on
-other versions of the system conclude the paper.
+REFLES adalah sistem berbasis mikrokomputer untuk pengambilan data di perpustakaan
+lingkungan. Masalah pencarian informasi dibahas dari a
+sudut pandang teoretis, diikuti dengan analisis proses referensi
+dan dengan demikian data dikumpulkan, mengarah ke deskripsi REFLES dalam hal
+perangkat keras dan perangkat lunaknya. REFLES, sistem prototipe saat ini, saat ini
+fungsi dalam lingkungan pengujian. Contoh data yang terdapat dalam sistem
+dan penggunaannya disajikan. Pertimbangan dan spekulasi di masa depan
+versi lain dari sistem menyimpulkan kertas.
 .B
-(Information Processing & Management, Vol. 17, No. 2, 1981, pp. 93-101)
+(Pemrosesan & Manajemen Informasi, Vol. 17, No. 2, 1981, hlm. 93-101)
 
 .I 95
 .T
-A Comparison of Two Systems of Weighted Boolean Retrieval
+Perbandingan Dua Sistem Pengambilan Boolean Berbobot
 .A
 Bookstein, A.
 .W
-    A major deficiency of traditional Boolean systems is their inability to
-represent the varying degrees to which a document may be written on a subject.
-In this article we isolate a number of criteria that should be met by any
-Boolean system generalized to have a weighting capability.  It is proven that
-only one weighting rule satisfies these conditions--that associated with fuzzy-
-set theory--and that this weighting scheme satisfies most of the other
-properties associated with Boolean algebra as well.  Probabilistic weighting
-is then introduced as an alternative approach and the two systems compared.
-In the limit of zero/one weights, all systems considered converge to
-traditional Boolean retrieval.
+Kekurangan utama dari sistem Boolean tradisional adalah ketidakmampuannya
+mewakili berbagai tingkat yang dokumen dapat ditulis pada subjek.
+Dalam artikel ini kami mengisolasi sejumlah kriteria yang harus dipenuhi oleh siapa pun
+Sistem Boolean digeneralisasikan untuk memiliki kemampuan pembobotan. Terbukti bahwa
+hanya satu aturan pembobotan yang memenuhi kondisi ini - yang terkait dengan fuzzy-
+teori himpunan - dan bahwa skema pembobotan ini memenuhi sebagian besar yang lain
+properti yang terkait dengan aljabar Boolean juga. Pembobotan probabilistik
+kemudian diperkenalkan sebagai pendekatan alternatif dan dua sistem dibandingkan.
+Dalam batas bobot nol/satu, semua sistem dianggap konvergen
+pengambilan Boolean tradisional.
 .B
-(JASIS, Vol. 32, No. 4, July 1981)
+(JASIS, Vol. 32, No. 4, Juli 1981)
 
 .I 96
 .T
-Threshold Values and Boolean Retrieval Systems
+Nilai Ambang Batas dan Sistem Pengambilan Boolean
 .A
-Buell, D.A.
-Kraft, D.H.
+Buell, DA
+Kraft, DH
 .W
-    Several papers have appeared that have analyzed recent developments
-in the problem of processing, in a document retrieval system, queries expressed
-as Boolean expressions.  The purpose of this paper is to continue that analysis.
-We shall show that the concept of threshold values resolves the problems
-inherent with relevance weights.  Moreover, we shall explore possible evaluation
-mechanisms for retrieval of documents, based on fuzzy-set-theoretic
-considerations.
+Beberapa makalah telah muncul yang telah menganalisis perkembangan terakhir
+dalam masalah pemrosesan, dalam sistem pengambilan dokumen, kueri diekspresikan
+sebagai ekspresi Boolean. Tujuan dari tulisan ini adalah untuk melanjutkan analisis tersebut.
+Kami akan menunjukkan bahwa konsep nilai ambang menyelesaikan masalah
+melekat dengan bobot relevansi. Selain itu, kami akan mengeksplorasi kemungkinan evaluasi
+mekanisme untuk pengambilan dokumen, berdasarkan fuzzy-set-theoretic
+pertimbangan.
 .B
-(Information Processing & Management, Vol. 17, No. 3, 1981, pp. 127-136)
+(Pengolahan & Manajemen Informasi, Vol. 17, No. 3, 1981, hlm. 127-136)
 
 .I 97
 .T
-A Model for a Weighted Retrieval System
+Sebuah Model untuk Sistem Retrieval Tertimbang
 .A
-Buell, D.A.
-Kraft, D.H.
+Buell, DA
+Kraft, DH
 .W
-    There has been a good deal of work on information retrieval systems that
-have continuous weights assigned to the index terms that describe the records
-in the database, and/or to the query terms that describe the user queries.
-Recent articles have analyzed retrieval systems with continuous weights of
-either type and/or with a Boolean structure for the queries.  They have also
-suggested criteria which such systems ought to satisfy and record evaluation
-mechanisms which partially satisfy these criteria.  We offer a more careful
-analysis, based on a generalization of the discrete weights.  We also look
-at the weights from an entirely different approach involving thresholds, and
-we generate an improved evaluation mechanism which seems to fulfill a larger
-subset of the desired criteria than previous mechanisms.  This new mechanism
-allows the user to attach a "threshold" to the query term.
+Ada banyak pekerjaan pada sistem pencarian informasi itu
+memiliki bobot kontinu yang ditetapkan pada istilah indeks yang menjelaskan catatan
+dalam database, dan/atau ke istilah kueri yang menjelaskan kueri pengguna.
+Artikel terbaru telah menganalisis sistem pengambilan dengan bobot terus menerus
+ketik dan/atau dengan struktur Boolean untuk kueri. Mereka juga memiliki
+kriteria yang disarankan yang harus dipenuhi oleh sistem seperti itu dan mencatat evaluasi
+mekanisme yang sebagian memenuhi kriteria ini. Kami menawarkan lebih berhati-hati
+analisis, berdasarkan generalisasi bobot diskrit. Kami juga melihat
+pada bobot dari pendekatan yang sama sekali berbeda yang melibatkan ambang batas, dan
+kami menghasilkan mekanisme evaluasi yang lebih baik yang tampaknya memenuhi lebih besar
+subset dari kriteria yang diinginkan dari mekanisme sebelumnya. Mekanisme baru ini
+memungkinkan pengguna untuk melampirkan "ambang" ke istilah kueri.
 .B
-(JASIS, Vol. 32, No. 3, May 1981, pp. 211-216)
+(JASIS, Vol. 32, No. 3, Mei 1981, hlm. 211-216)
 
 .I 98
 .T
-A Translating Computer Interface for End-User Operation of Heterogeneous
-Retrieval Systems.  I. Design
+Antarmuka Komputer Penerjemah untuk Operasi Heterogen Pengguna Akhir
+Sistem Pengambilan. Saya mendesain
 .A
-Marcus, R.S.
-Reintjes, J.F.
+Markus, RS
+Reintjes, JF
 .W
-    Online retrieval systems may be difficult to use, especially by end
-users, because of heterogeneity and complexity.  Investigations have concerned
-the concept of a translating computer interface as a means to simplify access
-to, and operation of, heterogeneous bibliographic retrieval systems and
-databases.  The interface allows users to make requests in a common language.
-These requests are translated by the interface into the appropriate commands
-for whatever system is being interrogated.  System responses may also be
-transformed by the interface into a common form before being given to the
-users.  Thus, the network of different systems is made to look like a single
-"virtual" system to the user.  The interface also provides instruction and
-other search aids for the user.  The philosophy, design, and implementation
-of an experimental interface named CONIT are described.
+Sistem pengambilan online mungkin sulit digunakan, terutama pada akhir
+pengguna, karena heterogenitas dan kompleksitas. Investigasi mengkhawatirkan
+konsep penerjemahan antarmuka komputer sebagai sarana untuk mempermudah akses
+untuk, dan pengoperasian, sistem pengambilan bibliografi heterogen dan
+database. Antarmuka memungkinkan pengguna untuk membuat permintaan dalam bahasa yang sama.
+Permintaan ini diterjemahkan oleh antarmuka ke dalam perintah yang sesuai
+untuk sistem apa pun yang sedang diinterogasi. Respons sistem juga mungkin
+diubah oleh antarmuka menjadi bentuk umum sebelum diberikan ke
+pengguna. Dengan demikian, jaringan sistem yang berbeda dibuat agar terlihat seperti satu kesatuan
+sistem "virtual" kepada pengguna. Antarmuka juga menyediakan instruksi dan
+alat bantu pencarian lainnya untuk pengguna. Filosofi, desain, dan implementasi
+antarmuka eksperimental bernama CONIT dijelaskan.
 .B
-(JASIS, Vol. 32, No. 4, July 1981, pp. 287-303)
+(JASIS, Vol. 32, No. 4, Juli 1981, hlm. 287-303)
 
 .I 99
 .T
-A Translating Computer Interface for End-User Operation of
-Heterogeneous Retrieval Systems.  II. Evaluations
+Antarmuka Komputer Penerjemah untuk Pengoperasian Pengguna Akhir
+Sistem Pengambilan Heterogen. II. Evaluasi
 .A
-Marcus, R.S.
-Reintjes, J.F.
+Markus, RS
+Reintjes, JF
 .W
-    The evaluation of the concept of a translating compuyter interface for
-simplifying operation of multiple, heterogenous online bibliographic
-retrieval systems has been undertaken.  An experimental retrieval system,
-named CONIT, was built and tested under controlled conditions with
-inexperienced end users.  A detailed analysis of the experimental usages
-showed that users were able to master interface operation sufficiently well
-to find relevant document references.  Success was attributed, in part,
-to a simple command language, adequate online instruction, and a simplified
-natural-language, keyword/stem approach to searching.  It is concluded that
-operational interfaces of the type studied can provide for increased usability
-of existing system in a cost effective manner, especially for searchers.
-Furthermore, more advanced interfaces based on improved instruction and
-automated search strategy techniques could further enhance retrieval
-effectiveness for a wide class of users.
+Evaluasi konsep antarmuka komputer penerjemah untuk
+menyederhanakan operasi bibliografi online multipel dan heterogen
+sistem pencarian telah dilakukan. Sebuah sistem pengambilan eksperimental,
+bernama CONIT, dibangun dan diuji dalam kondisi yang terkendali dengan
+pengguna akhir yang tidak berpengalaman. Sebuah analisis rinci dari penggunaan eksperimental
+menunjukkan bahwa pengguna mampu menguasai operasi antarmuka dengan cukup baik
+untuk menemukan referensi dokumen yang relevan. Keberhasilan dikaitkan, sebagian,
+ke bahasa perintah yang sederhana, instruksi online yang memadai, dan disederhanakan
+bahasa alami, pendekatan kata kunci/batang untuk pencarian. Disimpulkan bahwa
+antarmuka operasional dari jenis yang dipelajari dapat memberikan peningkatan kegunaan
+sistem yang ada dengan biaya yang efektif, terutama untuk pencari.
+Selain itu, antarmuka yang lebih canggih berdasarkan instruksi yang ditingkatkan dan
+teknik strategi pencarian otomatis dapat lebih meningkatkan pengambilan
+efektivitas untuk kelas pengguna yang luas.
 .B
-(JASIS, Vol. 32, No. 4, July 1981, pp. 304-317)
+(JASIS, Vol. 32, No. 4, Juli 1981, hlm. 304-317)
 
 .I 100
 .T
-The Interface Between Computerized Retrieval Systems and Micrographic
-Retrieval Systems
+Antarmuka Antara Sistem Pengambilan Terkomputerisasi dan Mikrografik
+Sistem Pengambilan
 .A
-McMurdo, G.
+Mc Murdo, G.
 .W
-    This paper notes the benefits accruing from interaction between computerized
-retrieval systems and micrographic retrieval systems.  It reviews current state
-of automated micrographic retrieval technology.  The conclusion is that with a
-combination of advances in communications technology, and sophisticated indexing
-input from libraries and information scientists, the new generation of automated
-micrographs devices may constitute the on-line document retrieval systems of the
-future.
+Makalah ini mencatat manfaat yang diperoleh dari interaksi antara komputerisasi
+sistem pengambilan dan sistem pengambilan mikrografik. Ini meninjau keadaan saat ini
+teknologi pengambilan mikrografi otomatis. Kesimpulannya adalah dengan a
+kombinasi kemajuan teknologi komunikasi, dan pengindeksan yang canggih
+masukan dari perpustakaan dan ilmuwan informasi, generasi baru otomatisasi
+perangkat mikrograf mungkin merupakan sistem pengambilan dokumen on-line dari
+masa depan.
 .B
-(Journal of Information Science I, 1980, pp. 345-349)
+(Jurnal Ilmu Informasi I, 1980, hlm. 345-349)
 
 .I 101
 .T
-Parallel Computations in Information Retrieval
+Komputasi Paralel dalam Pengambilan Informasi
 .A
 Salton, G.
 Bergmark, D.
 .W
-    Conventional information retrieval processes are largely based on data
-movement, pointer manipulations and integer arithmetic; more refined retrieval
-algorithms may in addition benefit from substantial computational power.
+Proses pencarian informasi konvensional sebagian besar didasarkan pada data
+gerakan, manipulasi penunjuk, dan aritmatika bilangan bulat; pengambilan yang lebih halus
+algoritma tambahan mungkin mendapat manfaat dari daya komputasi yang besar.
 
-    In the present study a number of parallel processing methods are described
-that serve to enhance retrieval services.  In conventional retrieval
-environments parallel list processing and parallel search facilities are of
-greatest interest.  In more advanced systems, the use of array processors
-also proves beneficial.  Various information retrieval processes are examined
-and evidence is given to demonstrate the usefulness of parallel processing
-and fast computational facilities in information retrieval.
+Dalam penelitian ini sejumlah metode pemrosesan paralel dijelaskan
+yang berfungsi untuk meningkatkan layanan retrieval. Dalam pengambilan konvensional
+lingkungan pemrosesan daftar paralel dan fasilitas pencarian paralel
+kepentingan terbesar. Dalam sistem yang lebih maju, penggunaan prosesor array
+juga terbukti bermanfaat. Berbagai proses pencarian informasi diperiksa
+dan bukti diberikan untuk menunjukkan kegunaan pemrosesan paralel
+dan fasilitas komputasi yang cepat dalam pencarian informasi.
 .B
-(In Lecture Notes in Computer Science, No. III, W. Handler, Ed., Springer
-Verlag, Berlin-New York, 1981, pp. 328-342)
+(Dalam Catatan Kuliah Ilmu Komputer, No. III, W. Handler, Ed., Springer
+Verlag, Berlin-New York, 1981, hlm. 328-342)
 
 .I 102
 .T
-The Measurement of Term Importance in Automatic Indexing
+Pengukuran Pentingnya Istilah dalam Pengindeksan Otomatis
 .A
 Salton, G.
 Wu, H.
-Yu, C.T.
+Yu, CT
 .W
-    The frequency characteristics of terms in the documents of a collection
-have been used as indicators of term importance for content analysis and
-indexing purposes.  In particular, very rare or very frequent terms are
-normally believed to be less effective than medium-frequency terms.  Recently
-automatic indexing theories have been devised that use not only the term
-frequency characteristics but also the relevance properties of the terms.
-The major term-weighting theories are first briefly reviewed.  The term
-precision and term utility weights that are based on the occurrence
-characteristics of the terms in the relevant, as opposed to the nonrelevant,
-documents of a collection are then introduced.  Methods are suggested for
-estimating the relevance properties of the terms based on their overall
-occurrence characteristics in the collection.  Finally, experimental
-evaluation results are shown comparing the weighting systems using the term
-relevance properties with the more conventional frequency-based methodologies.
+Karakteristik frekuensi istilah dalam dokumen koleksi
+telah digunakan sebagai indikator pentingnya istilah untuk analisis isi dan
+tujuan pengindeksan. Secara khusus, istilah yang sangat jarang atau sangat sering
+biasanya diyakini kurang efektif daripada istilah frekuensi menengah. Baru-baru ini
+teori pengindeksan otomatis telah dirancang yang tidak hanya menggunakan istilah
+karakteristik frekuensi tetapi juga sifat relevansi istilah.
+Teori pembobotan istilah utama pertama kali ditinjau secara singkat. Syarat
+presisi dan bobot utilitas jangka yang didasarkan pada kejadian
+karakteristik istilah-istilah dalam yang relevan, sebagai lawan dari yang tidak relevan,
+dokumen koleksi kemudian diperkenalkan. Metode disarankan untuk
+memperkirakan sifat relevansi istilah berdasarkan keseluruhannya
+karakteristik kejadian dalam koleksi. Terakhir, eksperimental
+hasil evaluasi ditampilkan membandingkan sistem pembobotan menggunakan istilah
+properti relevansi dengan metodologi berbasis frekuensi yang lebih konvensional.
 .B
-(JASIS, Vol. 32, No. 3, May 1981, pp. 175-186)
+(JASIS, Vol. 32, No. 3, Mei 1981, hlm. 175-186)
 
 .I 103
 .T
-NDX-100:  An Electronic Filing Machine for the Office of the Future
+NDX-100: Mesin Pengarsipan Elektronik untuk Kantor Masa Depan
 .A
 Slonim, J.
-MacRae, L.J.
-Mennie, W.E.
-Diamond, N.
+MacRae, LJ
+Mennie, KAMI
+Berlian, N.
 .W
-    This paper describes the design and implementation of an "electronic filing
-machine," a machine which is capable of storing large numbers of "unstructured"
-documents in such a way a particular document may be easily and quickly
-retrieved.  A functional distributed architecture permits the implementation
-of the system in a mixture of hardware and software.
+Makalah ini menjelaskan desain dan implementasi "pengarsipan elektronik
+mesin," sebuah mesin yang mampu menyimpan sejumlah besar data "tidak terstruktur"
+dokumen sedemikian rupa sehingga dokumen tertentu dapat dengan mudah dan cepat
+diambil. Arsitektur terdistribusi fungsional memungkinkan implementasi
+sistem dalam campuran perangkat keras dan perangkat lunak.
 .B
-(Computer, Vol. 14, No. 5, May 1981, pp. 24-36)
+(Komputer, Vol. 14, No. 5, Mei 1981, hlm. 24-36)
 
 .I 104
 .T
-The Selection of Good Search Terms
+Pemilihan Istilah Penelusuran yang Baik
 .A
-van Rijsbergen, C.J.
-Harper, D.J.
-Porter, M.F.
+van Rijsbergen, CJ
+Harper, DJ
+Porter, MF
 .W
-    This paper tackles the problem of how one might select further search terms,
-using relevance feedback, given the search terms in the query.  These search
-terms are extracted from a maximum spanning tree connecting all the terms in the
-index term vocabulary.  A number of different spanning trees are generated from
-a variety of association measures.  The retrieval effectiveness for the
-different spanning trees is shown to be approximately the same.  Effectiveness
-is measured in terms of precision and recall, and the retrieval tests are done
-on three different test collections.
+Makalah ini menangani masalah bagaimana seseorang dapat memilih istilah pencarian lebih lanjut,
+menggunakan umpan balik relevansi, mengingat istilah penelusuran dalam kueri. Pencarian ini
+istilah diekstraksi dari pohon rentang maksimum yang menghubungkan semua istilah dalam
+kosakata istilah indeks. Sejumlah pohon merentang yang berbeda dihasilkan dari
+berbagai tindakan asosiasi. Efektivitas pengambilan untuk
+pohon rentang yang berbeda terbukti kira-kira sama. Efektivitas
+diukur dalam hal presisi dan ingatan, dan tes pengambilan dilakukan
+pada tiga koleksi uji yang berbeda.
 .B
-(Information Processing & Management, Vol. 17, No. 2, 1981, pp. 77-91)
+(Pemrosesan & Manajemen Informasi, Vol. 17, No. 2, 1981, hlm. 77-91)
 
 .I 105
 .T
-Indexing Consistency, Quality and Efficiency
+Konsistensi Pengindeksan, Kualitas dan Efisiensi
 .A
-Rolling, L.
+Bergulir, L .
 .W
-    Indexing quality determines whether the information content of an indexed
-document is accurately represented.  Indexing effectiveness measures whether
-an indexed document is correctly retrieved every time it is relevant to a
-query.  Measurement of these criteria is cumbersome and costly; data base
-producers therefore prefer inter-indexer consistency as a measure of indexing
-quality or effectiveness.  The present article assesses the validity of this
-substitution in various environments.
+Kualitas pengindeksan menentukan apakah isi informasi suatu diindeks
+dokumen direpresentasikan secara akurat. Pengindeksan efektivitas mengukur apakah
+dokumen yang diindeks diambil dengan benar setiap kali relevan dengan a
+pertanyaan. Pengukuran kriteria ini tidak praktis dan mahal; basis data
+Oleh karena itu, produsen lebih memilih konsistensi antar-pengindeks sebagai ukuran pengindeksan
+kualitas atau efektivitas. Artikel ini menilai validitas ini
+substitusi di berbagai lingkungan.
 .B
-(Information Processing & Management, Vol. 17, No. 2, 1981, pp. 69-76)
+(Pemrosesan & Manajemen Informasi, Vol. 17, No. 2, 1981, hlm. 69-76)
 
 .I 106
 .T
-Text Passage Retrieval Based on Colon Classification:  Retrieval Performance
+Pengambilan Bagian Teks Berdasarkan Klasifikasi Titik Dua: Performa Pengambilan
 .A
-Shepherd, M.A.
+Gembala, MA
 .W
-    A set of experiments was conducted to determine the suitability of the
-Colon Classification as a foundation for the automated analysis, representation
-and retrieval of primary information from the full text of documents.  Primary
-information is that information embodied in the text of a document, as opposed
-to secondary information which is generally in such forms as:  an abstract, a
-table of contents, or an index.
-    Full text databases were created in two subject areas and queries solicited
-from specialists in each area.  An automated full text indexing system, along
-with four automated passage retrieval systems, was created to test the various
-features of the Colon Classification.  Two Boolean-based systems and one simple
-word occurrence system were created in order to compare the retrieval results
-against types of systems which are in more common use.  The systems' retrieval
-performances were measured using recall and precision and the mean expected
-search length reduction factors.
-    Overall, it was found that the Colon Classification-based systems did not
-perform significantly better than the other systems.
+Serangkaian percobaan dilakukan untuk menentukan kesesuaian
+Klasifikasi Colon sebagai dasar untuk analisis otomatis, representasi
+dan pengambilan informasi primer dari teks lengkap dokumen. Utama
+informasi adalah informasi yang terkandung dalam teks dokumen, sebagai lawan
+informasi sekunder yang umumnya berbentuk: abstrak, a
+daftar isi, atau indeks.
+Basis data teks lengkap dibuat dalam dua bidang subjek dan permintaan diminta
+dari spesialis di masing-masing bidang. Sistem pengindeksan teks lengkap otomatis, bersama
+dengan empat sistem pengambilan bagian otomatis, diciptakan untuk menguji berbagai
+fitur dari Klasifikasi Colon. Dua sistem berbasis Boolean dan satu sederhana
+sistem kemunculan kata dibuat untuk membandingkan hasil pencarian
+terhadap jenis sistem yang lebih umum digunakan. Pengambilan sistem
+kinerja diukur dengan menggunakan recall dan presisi dan rata-rata yang diharapkan
+faktor pengurangan panjang pencarian.
+Secara keseluruhan, ditemukan bahwa sistem berbasis Colon Classification tidak
+melakukan secara signifikan lebih baik daripada sistem lain.
 .B
-(Journal of Documentation, Vol. 37, No. I, March 1981, pp. 25-35)
+(Jurnal Dokumentasi, Vol. 37, No. I, Maret 1981, hlm. 25-35)
 
 .I 107
 .T
-User-Responsive Subject Control in Bibliographic Retrieval Systems
+Kontrol Subjek Responsif Pengguna dalam Sistem Pengambilan Bibliografi
 .A
-Tague, J.M.
+Tagu, JM
 .W
-    A study was carried out of the relationship between the vocabulary of
-user queries and the vocabulary of documents relevant to the queries, and
-the value of adding to the document description record in a retrieval system
-keywords from previous queries for which the document had proved useful.
-Two test databases incorporating user query keywords were implemented at
-the School of Library and Information Science, University of Western
-Ontario.  Clustering of the documents via title and user keywords, a
-statistical analysis of title-user keyword co-occurrences, and retrieval
-tests were used to examine the effect of the added keywords.  Results
-showed the impracticality of the procedure in an operational setting, but
-indicated the value of analyses with sample data in the development and
-maintenance of keyword dictionaries and thesauri.
+Sebuah studi dilakukan dari hubungan antara kosakata
+kueri pengguna dan kosakata dokumen yang relevan dengan kueri, dan
+nilai penambahan catatan deskripsi dokumen dalam sistem temu kembali
+kata kunci dari kueri sebelumnya yang dokumennya terbukti bermanfaat.
+Dua database uji yang menggabungkan kata kunci kueri pengguna diimplementasikan di
+Sekolah Ilmu Perpustakaan dan Informasi, Universitas Western
+Ontario. Pengelompokan dokumen melalui judul dan kata kunci pengguna, a
+analisis statistik kejadian bersama kata kunci judul-pengguna, dan pengambilan
+tes digunakan untuk menguji efek dari kata kunci yang ditambahkan. Hasil
+menunjukkan ketidakpraktisan prosedur dalam pengaturan operasional, tetapi
+menunjukkan nilai analisis dengan data sampel dalam pengembangan dan
+pemeliharaan kamus kata kunci dan thesauri.
 .B
-(Information Processing & Management, Vol. 17, No. 3, 1981, pp. 149-159)
+(Pemrosesan & Manajemen Informasi, Vol. 17, No. 3, 1981, hlm. 149-159)
 
 .I 108
 .T
-A Program for Machine-Mediated Searching
+Sebuah Program untuk Pencarian dengan Mediasi Mesin
 .A
 Toliver, D.
 .W
-    A technique of online instruction and assistance to bibliographic data
-base searchers called Individualized Instruction for Data Access (IIDA) is
-being developed by Drexel University.  IIDA assists searchers by providing
-feedback based on real-time analysis while searches are being performed.
-Extensive help facilities which draw on this analysis are available to
-users.  Much of the project's experimental work, as described elsewhere,
-is concerned with the process of searching and the behavior of searchers.
-This paper will largely address itself to the project's computer system, which
-is being developed by subcontract with the Franklin Institute's Science
-Information Services.
+Sebuah teknik instruksi online dan bantuan untuk data bibliografi
+pencari dasar disebut Individualized Instruction for Data Access (IIDA) adalah
+sedang dikembangkan oleh Universitas Drexel. IIDA membantu pencari dengan menyediakan
+umpan balik berdasarkan analisis waktu nyata saat pencarian sedang dilakukan.
+Fasilitas bantuan ekstensif yang mengacu pada analisis ini tersedia untuk
+pengguna. Sebagian besar pekerjaan eksperimental proyek, seperti yang dijelaskan di tempat lain,
+berkaitan dengan proses pencarian dan perilaku pencari.
+Makalah ini sebagian besar akan membahas sendiri ke sistem komputer proyek, yang
+sedang dikembangkan dengan subkontrak dengan Franklin Institute's Science
+Layanan Informasi.
 .B
-(Information Processing & Management, Vol. 17, No. 2, 1981, pp. 61-68)
+(Pemrosesan & Manajemen Informasi, Vol. 17, No. 2, 1981, hlm. 61-68)
 
 .I 109
 .T
-Author Cocitation:  A Literature Measure of Intellectual Structure
+Cocitation Penulis: Ukuran Sastra Struktur Intelektual
 .A
-White, H.D.
-Griffith, B.C.
+Putih, HD
+Griffith, BC
 .W
-    It is shown that the mapping of a particular area of science, in this
-case information science, can be done using authors as units of analysis and
-the cocitations of pairs of authors as the variable that indicates their
-"distances" from each other.  The analysis assumes that the more two authors
-are cited together, the closer the relationship between them.  The raw data
-are cocitation counts drawn online from Social Scisearch (Social Sciences
-Citation Index) over the period 1972-1979.  GThe resulting map shows
-(1) identifiable author groups (akin to "schools") of information science,
-(2) locations of these groups with respect to each other, (3) the degree of
-centrality and peripherality of authors within groups, (4) proximities of
-authors within group and across group boundaries ("border authors" who seem
-to connect various areas of research), and (5) positions of authors with
-respect to the map's axes, which were arbitrarily set spanning the most
-divergent groups in order to aid interpretation.  Cocitation analysis of
-authors offers a new technique that might contribute to the understanding of
-intellectual structure in the sciences and possibly in other areas to the
-extent that those areas rely on serial publications.  The technique
-establishes authors, as well as documents, as an effective unit in
-analyzing subject specialties.
+Ditunjukkan bahwa pemetaan suatu bidang ilmu tertentu, dalam hal ini
+ilmu informasi kasus, dapat dilakukan dengan menggunakan penulis sebagai unit analisis dan
+cocitations pasangan penulis sebagai variabel yang menunjukkan mereka
+“jarak” satu sama lain. Analisis mengasumsikan bahwa lebih dari dua penulis
+dikutip bersama-sama, semakin dekat hubungan antara mereka. Data mentah
+adalah jumlah kutipan yang diambil secara online dari Social Scisearch (Social Sciences
+Citation Index) selama periode 1972-1979. Peta yang dihasilkan menunjukkan
+(1) kelompok penulis yang dapat diidentifikasi (mirip dengan "sekolah") ilmu informasi,
+(2) lokasi kelompok-kelompok ini terhadap satu sama lain, (3) tingkat
+sentralitas dan periferal penulis dalam kelompok, (4) kedekatan
+penulis dalam kelompok dan lintas batas kelompok ("penulis perbatasan" yang tampak
+untuk menghubungkan berbagai bidang penelitian), dan (5) posisi penulis dengan
+sehubungan dengan sumbu peta, yang diatur secara sewenang-wenang paling banyak
+kelompok yang berbeda untuk membantu interpretasi. Analisis cocitation dari
+penulis menawarkan teknik baru yang mungkin berkontribusi pada pemahaman
+struktur intelektual dalam sains dan mungkin di bidang lain
+sejauh daerah tersebut mengandalkan publikasi serial. Teknik
+menetapkan penulis, serta dokumen, sebagai unit yang efektif dalam
+menganalisis spesialisasi mata pelajaran.
 .B
-(JASIS, Vol. 32, No. 3, May 1981, pp. 163-171)
+(JASIS, Vol. 32, No. 3, Mei 1981, hlm. 163-171)
 
 .I 110
 .T
-Progress in Documentation.  Word Processing:
-An Introduction and Appraisal
+Kemajuan dalam Dokumentasi. Pemrosesan Kata:
+Pendahuluan dan Penilaian
 .A
 Whitehead, J.
 .W
-    The "Office of the Future," "Office Technology," "Word Processing,"
-"Electronic Mail," "Electronic Communications," "Convergence," "Information
-Management."  These are all terms included in the current list of buzz words
-used to describe current activities in the office technology area.  The high
-level of investment in factories and plants and the ever-increasing fight to
-improve productivity by automating the dull, routine jobs are usually quoted
-and compared with the extremely low investment in improving and automating
-the equally tedious routine jobs in the office environment; the investment
-in the factory is quoted as being ten times greater per employee than in the
-office.  This, however, is changing rapidly and investment on a large scale
-is already taking place in manhy areas as present-day inflation bites hard,
-forcing many companies and organizations to take a much closer look at their
-office operations.
+"Kantor Masa Depan", "Teknologi Kantor", "Pengolahan Kata",
+"Surat Elektronik", "Komunikasi Elektronik", "Konvergensi", "Informasi
+Manajemen." Ini semua adalah istilah yang termasuk dalam daftar kata buzz saat ini
+digunakan untuk menggambarkan kegiatan saat ini di bidang teknologi kantor. Yang tinggi
+tingkat investasi di pabrik dan pabrik dan perjuangan yang terus meningkat untuk
+meningkatkan produktivitas dengan mengotomatiskan pekerjaan rutin yang membosankan biasanya dikutip
+dan dibandingkan dengan investasi yang sangat rendah dalam peningkatan dan otomatisasi
+pekerjaan rutin yang sama membosankannya di lingkungan kantor; investasi
+di pabrik dikutip sepuluh kali lebih besar per karyawan daripada di
+kantor. Ini, bagaimanapun, berubah dengan cepat dan investasi dalam skala besar
+sudah terjadi di daerah manhy karena inflasi saat ini menggigit keras,
+memaksa banyak perusahaan dan organisasi untuk melihat lebih dekat pada mereka
+operasional kantor.
 .B
-(Journal of Documentation, Vol. 36, No. 4, December 1980, pp. 313-341)
+(Jurnal Dokumentasi, Vol. 36, No. 4, Desember 1980, hlm. 313-341)
 
 .I 111
 .T
-Document Clustering Using an Inverted File Approach
+Pengelompokan Dokumen Menggunakan Pendekatan File Terbalik
 .A
-Willett, P.
+Willet, P.
 .W
-    An automated document clustering procedure is described which does not
-require the use of an inter-document similarity matrix and which is independent
-of the order in which the documents are processed.  The procedure makes use of
-an initial set of clusters which is derived from certain of the terms in the
-indexing vocabulary used to characterise the documents in the file.  The
-retrieval effectiveness obtained using the clustered file is compared with that
-obtained from serial searching and from use of the single-linkage clustering
-method.
+Prosedur pengelompokan dokumen otomatis dijelaskan yang tidak
+membutuhkan penggunaan matriks kesamaan antar-dokumen dan yang independen
+urutan dokumen diproses. Prosedur memanfaatkan
+satu set awal cluster yang berasal dari istilah-istilah tertentu dalam
+pengindeksan kosakata yang digunakan untuk mengkarakterisasi dokumen dalam file. Itu
+efektivitas pengambilan diperoleh dengan menggunakan file berkerumun dibandingkan dengan itu
+diperoleh dari pencarian serial dan dari penggunaan pengelompokan tautan tunggal
+metode.
 .B
-(Journal of Information Science, 2, 1980, pp. 222-231)
+(Jurnal Ilmu Informasi, 2, 1980, hlm. 222-231)
 
 .I 112
 .T
-A Fast Procedure for the Calculation of Similarity Coefficients in
-in Automatic Classification
+Prosedur Cepat Perhitungan Koefisien Kesamaan pada
+dalam Klasifikasi Otomatis
 .A
-Willett, P.
+Willet, P.
 .W
-    A fast algorithm is described for comparing the lists of terms representing
-documents in automatic classification experiments.  The speed of the procedure
-arises from the fact that all of the non-zero-valued coefficicents for a given
-document are identified together, using an inverted file to the terms in the
-document collection.  The complexity and running time of the algorithm are
-compared with previously described procedures.
+Algoritme cepat dijelaskan untuk membandingkan daftar istilah yang mewakili
+dokumen dalam percobaan klasifikasi otomatis. Kecepatan prosedur
+muncul dari fakta bahwa semua koefisien tidak bernilai nol untuk diberikan
+dokumen diidentifikasi bersama-sama, menggunakan file terbalik ke istilah dalam
+koleksi dokumen. Kompleksitas dan waktu berjalan dari algoritma adalah
+dibandingkan dengan prosedur yang dijelaskan sebelumnya.
 .B
-(Information Processing & Management, Vol. 17, No. 2, 1981, pp. 53-60)
+(Pemrosesan & Manajemen Informasi, Vol. 17, No. 2, 1981, hlm. 53-60)
