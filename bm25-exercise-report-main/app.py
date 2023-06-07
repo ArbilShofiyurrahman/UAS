@@ -171,13 +171,13 @@ def load_models():
         print(bm25_simple.corpus_size)
 
     bm25_okapi_file, _ = urllib.request.urlretrieve(
-        'https://github.com/tcvieira/bm25-exercise-report/blob/main/models/BM25Okapi.pkl?raw=true', 'bm25_okapi_file.downloaded')
+        'https://github.com/ArbilShofiyurrahman/UAS/blob/main/bm25-exercise-report-main/models/BM25Okapi.pkl?raw=true', 'bm25_okapi_file.downloaded')
     with open(bm25_okapi_file, 'rb') as file:
         bm25_okapi: BM25Okapi = pickle.load(file)
         print(bm25_okapi.corpus_size)
 
     bm25_plus_file, _ = urllib.request.urlretrieve(
-        'https://github.com/tcvieira/bm25-exercise-report/blob/main/models/BM25Plus.pkl?raw=true', 'bm25_plus_file.downloaded')
+        'https://github.com/ArbilShofiyurrahman/UAS/blob/main/bm25-exercise-report-main/models/BM25Plus.pkl?raw=true', 'bm25_plus_file.downloaded')
     with open(bm25_plus_file, 'rb') as file:
         bm25_plus: BM25Plus = pickle.load(file)
         print(bm25_plus.corpus_size)
