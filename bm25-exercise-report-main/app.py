@@ -142,7 +142,7 @@ def load_docs():
     doc_id = ""
     doc_text = ""
     documents_file, _ = urllib.request.urlretrieve(
-        'https://raw.githubusercontent.com/tcvieira/bm25-exercise-report/main/content/CISI.ALL', 'CISI.ALL.downloaded')
+        'https://gist.githubusercontent.com/ArbilShofiyurrahman/d1a30628edd10df04169478f52b512fd/raw/6ea5546d3455b1376c7be6f448908ab46dee41eb/CISI.ALL', 'CISI.ALL.downloaded')
     with open(documents_file) as f:
         lines = ""
         for l in f.readlines():
