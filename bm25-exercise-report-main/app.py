@@ -23,7 +23,7 @@ def main():
         layout="wide",
         initial_sidebar_state="auto",  # Can be "auto", "expanded", "collapsed"
         # String or None. Strings get appended with "• Streamlit".
-        page_title="BM25 based Information Retrieval System",
+        page_title="CISI - Sistem Pemulihan Informasi berbasis BM25",
         page_icon="🔎",  # String, anything supported by st.image, or None.
     )
 
